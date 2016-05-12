@@ -1,0 +1,487 @@
+[17:31:42.891] EcuFlash Version 1.44.4361
+[17:31:42.891] OS Version Windows (unknown version)
+[17:31:42.891] Qt Version 5.2.0
+[17:31:42.894] 67 memory models read.
+[17:31:42.894] scanning for metadata models in C:/Program Files (x86)/OpenECU/EcuFlash/rommetadata
+[17:31:42.958] 746 ROM metadata models scanned.
+[17:31:42.958] checksum module "subarudbw" loaded.
+[17:31:42.958] checksum module "subarudiesel" loaded.
+[17:31:42.958] checksum module "mitsucan" loaded.
+[17:31:42.958] checksum module "mitsuh8" loaded.
+[17:31:42.958] patch module "Subaru CAN Enhanced RAM Parameter Logging" loaded.
+[17:31:42.958] patch module "Mitsu CAN RAM Parameter Logging" loaded.
+[17:31:42.974] using metadata XML ID read_subarush7058can from file C:/Program Files (x86)/OpenECU/EcuFlash/rommetadata/read templates/read_subarush7058can.xml
+[17:31:42.974] flashing tool "wrx02" loaded.
+[17:31:42.974] flashing tool "wrx04" loaded.
+[17:31:42.974] flashing tool "sti04" loaded.
+[17:31:42.974] flashing tool "sti05" loaded.
+[17:31:42.989] flashing tool "mitsucan" loaded.
+[17:31:42.989] flashing tool "mitsukernel" loaded.
+[17:31:42.989] flashing tool "mitsukernelocp" loaded.
+[17:31:42.989] flashing tool "mitsubootloader" loaded.
+[17:31:42.989] flashing tool "shbootmode" loaded.
+[17:31:42.989] flashing tool "shaudmode" loaded.
+[17:31:42.989] flashing tool "subarucan" loaded.
+[17:31:42.989] flashing tool "subarucand" loaded.
+[17:31:42.989] flashing tool "subarubrz" loaded.
+[17:31:42.989] flashing tool "subaruhitachi" loaded.
+[17:31:43.021] J2534 API Version: 04.04
+[17:31:43.021] J2534 DLL Version: 1.01.4358 Oct 10 2014 03:49:00
+[17:31:43.021] Device Firmware Version: 1.15.4363
+[17:31:43.021] Device Serial Number: TAMpGGak
+[17:31:43.021] interface close
+[17:31:43.036] J2534 API Version: 04.04
+[17:31:43.036] J2534 DLL Version: 1.01.4358 Oct 10 2014 03:49:00
+[17:31:43.036] Device Firmware Version: 1.15.4363
+[17:31:43.036] Device Serial Number: TAMpGGak
+[17:31:43.036] interface close
+[17:31:43.052] J2534 API Version: 04.04
+[17:31:43.052] J2534 DLL Version: 1.01.4358 Oct 10 2014 03:49:00
+[17:31:43.052] Device Firmware Version: 1.15.4363
+[17:31:43.052] Device Serial Number: TAMpGGak
+[17:31:43.052] interface close
+[17:31:43.068] J2534 API Version: 04.04
+[17:31:43.068] J2534 DLL Version: 1.01.4358 Oct 10 2014 03:49:00
+[17:31:43.068] Device Firmware Version: 1.15.4363
+[17:31:43.068] Device Serial Number: TAMpGGak
+[17:31:43.068] interface close
+[17:31:43.083] J2534 API Version: 04.04
+[17:31:43.083] J2534 DLL Version: 1.01.4358 Oct 10 2014 03:49:00
+[17:31:43.083] Device Firmware Version: 1.15.4363
+[17:31:43.083] Device Serial Number: TAMpGGak
+[17:31:43.083] interface close
+[17:31:43.099] J2534 API Version: 04.04
+[17:31:43.099] J2534 DLL Version: 1.01.4358 Oct 10 2014 03:49:00
+[17:31:43.099] Device Firmware Version: 1.15.4363
+[17:31:43.099] Device Serial Number: TAMpGGak
+[17:31:43.099] interface close
+[17:32:27.573] using metadata XML ID read_subarush7058can from file C:/Program Files (x86)/OpenECU/EcuFlash/rommetadata/read templates/read_subarush7058can.xml
+[17:32:27.604] J2534 API Version: 04.04
+[17:32:27.604] J2534 DLL Version: 1.01.4358 Oct 10 2014 03:49:00
+[17:32:27.604] Device Firmware Version: 1.15.4363
+[17:32:27.604] Device Serial Number: TAMpGGak
+[17:32:30.542] interface close
+[17:32:32.558] J2534 API Version: 04.04
+[17:32:32.558] J2534 DLL Version: 1.01.4358 Oct 10 2014 03:49:00
+[17:32:32.558] Device Firmware Version: 1.15.4363
+[17:32:32.558] Device Serial Number: TAMpGGak
+[17:32:34.714] interface close
+[17:32:49.012] using metadata XML ID read_subarush7058can from file C:/Program Files (x86)/OpenECU/EcuFlash/rommetadata/read templates/read_subarush7058can.xml
+[17:32:49.028] J2534 API Version: 04.04
+[17:32:49.028] J2534 DLL Version: 1.01.4358 Oct 10 2014 03:49:00
+[17:32:49.028] Device Firmware Version: 1.15.4363
+[17:32:49.028] Device Serial Number: TAMpGGak
+[17:32:52.358] kernel get version
+[17:32:53.811] interface close
+[17:32:53.811] interface close
+[17:34:32.435] using metadata XML ID read_subarush7058can from file C:/Program Files (x86)/OpenECU/EcuFlash/rommetadata/read templates/read_subarush7058can.xml
+[17:34:32.451] J2534 API Version: 04.04
+[17:34:32.451] J2534 DLL Version: 1.01.4358 Oct 10 2014 03:49:00
+[17:34:32.451] Device Firmware Version: 1.15.4363
+[17:34:32.451] Device Serial Number: TAMpGGak
+[17:34:34.154] kernel get version
+[17:34:35.592] interface close
+[17:34:35.592] interface close
+[17:34:43.233] using metadata XML ID read_subarush7058can from file C:/Program Files (x86)/OpenECU/EcuFlash/rommetadata/read templates/read_subarush7058can.xml
+[17:34:43.248] J2534 API Version: 04.04
+[17:34:43.248] J2534 DLL Version: 1.01.4358 Oct 10 2014 03:49:00
+[17:34:43.248] Device Firmware Version: 1.15.4363
+[17:34:43.248] Device Serial Number: TAMpGGak
+[17:34:56.764] kernel get version
+[17:34:58.196] interface close
+[17:34:58.196] interface close
+[17:35:23.132] using metadata XML ID read_subarush7058can from file C:/Program Files (x86)/OpenECU/EcuFlash/rommetadata/read templates/read_subarush7058can.xml
+[17:35:23.148] J2534 API Version: 04.04
+[17:35:23.148] J2534 DLL Version: 1.01.4358 Oct 10 2014 03:49:00
+[17:35:23.148] Device Firmware Version: 1.15.4363
+[17:35:23.148] Device Serial Number: TAMpGGak
+[17:35:24.398] kernel get version
+[17:35:25.835] interface close
+[17:35:25.835] interface close
+[17:35:36.978] using metadata XML ID read_subarush7058can from file C:/Program Files (x86)/OpenECU/EcuFlash/rommetadata/read templates/read_subarush7058can.xml
+[17:35:37.009] J2534 API Version: 04.04
+[17:35:37.009] J2534 DLL Version: 1.01.4358 Oct 10 2014 03:49:00
+[17:35:37.009] Device Firmware Version: 1.15.4363
+[17:35:37.009] Device Serial Number: TAMpGGak
+[17:35:39.083] kernel get version
+[17:35:39.802] CVN : 2DD6FAA6
+[17:35:39.802] Requesting Seed...
+[17:35:39.802] Sending Key...
+[17:35:40.536] kernel get version
+[17:35:40.536] kernel version is : OpenECU Subaru SH7058 OCP CAN Kernel V1.07
+[17:35:40.536] reading kernel comm buffer size
+[17:35:40.551] comm buffer size set to 2048
+[17:35:40.551] reading kernel flash buffer size
+[17:35:40.551] flash buffer size set to 4096
+[17:35:40.551] -- dumping ECU memory --
+[17:35:40.551] kernel read area: addr: 00000000 len: 0800
+[17:35:40.645] kernel read area: addr: 00000800 len: 0800
+[17:35:40.739] kernel read area: addr: 00001000 len: 0800
+[17:35:40.833] kernel read area: addr: 00001800 len: 0800
+[17:35:40.942] kernel read area: addr: 00002000 len: 0800
+[17:35:41.036] kernel read area: addr: 00002800 len: 0800
+[17:35:41.130] kernel read area: addr: 00003000 len: 0800
+[17:35:41.223] kernel read area: addr: 00003800 len: 0800
+[17:35:41.333] kernel read area: addr: 00004000 len: 0800
+[17:35:41.411] kernel read area: addr: 00004800 len: 0800
+[17:35:41.520] kernel read area: addr: 00005000 len: 0800
+[17:35:41.614] kernel read area: addr: 00005800 len: 0800
+[17:35:41.708] kernel read area: addr: 00006000 len: 0800
+[17:35:41.802] kernel read area: addr: 00006800 len: 0800
+[17:35:41.896] kernel read area: addr: 00007000 len: 0800
+[17:35:41.990] kernel read area: addr: 00007800 len: 0800
+[17:35:42.100] kernel read area: addr: 00008000 len: 0800
+[17:35:42.193] kernel read area: addr: 00008800 len: 0800
+[17:35:42.287] kernel read area: addr: 00009000 len: 0800
+[17:35:42.381] kernel read area: addr: 00009800 len: 0800
+[17:35:42.475] kernel read area: addr: 0000A000 len: 0800
+[17:35:42.568] kernel read area: addr: 0000A800 len: 0800
+[17:35:42.678] kernel read area: addr: 0000B000 len: 0800
+[17:35:42.756] kernel read area: addr: 0000B800 len: 0800
+[17:35:42.865] kernel read area: addr: 0000C000 len: 0800
+[17:35:42.959] kernel read area: addr: 0000C800 len: 0800
+[17:35:43.053] kernel read area: addr: 0000D000 len: 0800
+[17:35:43.147] kernel read area: addr: 0000D800 len: 0800
+[17:35:43.240] kernel read area: addr: 0000E000 len: 0800
+[17:35:43.335] kernel read area: addr: 0000E800 len: 0800
+[17:35:43.445] kernel read area: addr: 0000F000 len: 0800
+[17:35:43.539] kernel read area: addr: 0000F800 len: 0800
+[17:35:43.633] kernel read area: addr: 00010000 len: 0800
+[17:35:43.726] kernel read area: addr: 00010800 len: 0800
+[17:35:43.820] kernel read area: addr: 00011000 len: 0800
+[17:35:43.914] kernel read area: addr: 00011800 len: 0800
+[17:35:44.023] kernel read area: addr: 00012000 len: 0800
+[17:35:44.117] kernel read area: addr: 00012800 len: 0800
+[17:35:44.211] kernel read area: addr: 00013000 len: 0800
+[17:35:44.305] kernel read area: addr: 00013800 len: 0800
+[17:35:44.398] kernel read area: addr: 00014000 len: 0800
+[17:35:44.492] kernel read area: addr: 00014800 len: 0800
+[17:35:44.601] kernel read area: addr: 00015000 len: 0800
+[17:35:44.695] kernel read area: addr: 00015800 len: 0800
+[17:35:44.789] kernel read area: addr: 00016000 len: 0800
+[17:35:44.883] kernel read area: addr: 00016800 len: 0800
+[17:35:44.976] kernel read area: addr: 00017000 len: 0800
+[17:35:45.070] kernel read area: addr: 00017800 len: 0800
+[17:35:45.180] kernel read area: addr: 00018000 len: 0800
+[17:35:45.273] kernel read area: addr: 00018800 len: 0800
+[17:35:45.367] kernel read area: addr: 00019000 len: 0800
+[17:35:45.461] kernel read area: addr: 00019800 len: 0800
+[17:35:45.555] kernel read area: addr: 0001A000 len: 0800
+[17:35:45.648] kernel read area: addr: 0001A800 len: 0800
+[17:35:45.758] kernel read area: addr: 0001B000 len: 0800
+[17:35:45.851] kernel read area: addr: 0001B800 len: 0800
+[17:35:45.945] kernel read area: addr: 0001C000 len: 0800
+[17:35:46.039] kernel read area: addr: 0001C800 len: 0800
+[17:35:46.133] kernel read area: addr: 0001D000 len: 0800
+[17:35:46.231] kernel read area: addr: 0001D800 len: 0800
+[17:35:46.325] kernel read area: addr: 0001E000 len: 0800
+[17:35:46.419] kernel read area: addr: 0001E800 len: 0800
+[17:35:46.528] kernel read area: addr: 0001F000 len: 0800
+[17:35:46.622] kernel read area: addr: 0001F800 len: 0800
+[17:35:46.715] kernel read area: addr: 00020000 len: 0800
+[17:35:46.809] kernel read area: addr: 00020800 len: 0800
+[17:35:46.903] kernel read area: addr: 00021000 len: 0800
+[17:35:46.997] kernel read area: addr: 00021800 len: 0800
+[17:35:47.106] kernel read area: addr: 00022000 len: 0800
+[17:35:47.200] kernel read area: addr: 00022800 len: 0800
+[17:35:47.294] kernel read area: addr: 00023000 len: 0800
+[17:35:47.388] kernel read area: addr: 00023800 len: 0800
+[17:35:47.482] kernel read area: addr: 00024000 len: 0800
+[17:35:47.575] kernel read area: addr: 00024800 len: 0800
+[17:35:47.685] kernel read area: addr: 00025000 len: 0800
+[17:35:47.779] kernel read area: addr: 00025800 len: 0800
+[17:35:47.872] kernel read area: addr: 00026000 len: 0800
+[17:35:47.966] kernel read area: addr: 00026800 len: 0800
+[17:35:48.060] kernel read area: addr: 00027000 len: 0800
+[17:35:48.154] kernel read area: addr: 00027800 len: 0800
+[17:35:48.263] kernel read area: addr: 00028000 len: 0800
+[17:35:48.357] kernel read area: addr: 00028800 len: 0800
+[17:35:48.451] kernel read area: addr: 00029000 len: 0800
+[17:35:48.544] kernel read area: addr: 00029800 len: 0800
+[17:35:48.654] kernel read area: addr: 0002A000 len: 0800
+[17:35:48.732] kernel read area: addr: 0002A800 len: 0800
+[17:35:48.841] kernel read area: addr: 0002B000 len: 0800
+[17:35:48.935] kernel read area: addr: 0002B800 len: 0800
+[17:35:49.029] kernel read area: addr: 0002C000 len: 0800
+[17:35:49.122] kernel read area: addr: 0002C800 len: 0800
+[17:35:49.232] kernel read area: addr: 0002D000 len: 0800
+[17:35:49.326] kernel read area: addr: 0002D800 len: 0800
+[17:35:49.419] kernel read area: addr: 0002E000 len: 0800
+[17:35:49.513] kernel read area: addr: 0002E800 len: 0800
+[17:35:49.607] kernel read area: addr: 0002F000 len: 0800
+[17:35:49.701] kernel read area: addr: 0002F800 len: 0800
+[17:35:49.810] kernel read area: addr: 00030000 len: 0800
+[17:35:49.904] kernel read area: addr: 00030800 len: 0800
+[17:35:49.998] kernel read area: addr: 00031000 len: 0800
+[17:35:50.092] kernel read area: addr: 00031800 len: 0800
+[17:35:50.186] kernel read area: addr: 00032000 len: 0800
+[17:35:50.279] kernel read area: addr: 00032800 len: 0800
+[17:35:50.389] kernel read area: addr: 00033000 len: 0800
+[17:35:50.483] kernel read area: addr: 00033800 len: 0800
+[17:35:50.576] kernel read area: addr: 00034000 len: 0800
+[17:35:50.670] kernel read area: addr: 00034800 len: 0800
+[17:35:50.764] kernel read area: addr: 00035000 len: 0800
+[17:35:50.858] kernel read area: addr: 00035800 len: 0800
+[17:35:50.967] kernel read area: addr: 00036000 len: 0800
+[17:35:51.061] kernel read area: addr: 00036800 len: 0800
+[17:35:51.154] kernel read area: addr: 00037000 len: 0800
+[17:35:51.248] kernel read area: addr: 00037800 len: 0800
+[17:35:51.342] kernel read area: addr: 00038000 len: 0800
+[17:35:51.436] kernel read area: addr: 00038800 len: 0800
+[17:35:51.545] kernel read area: addr: 00039000 len: 0800
+[17:35:51.639] kernel read area: addr: 00039800 len: 0800
+[17:35:51.733] kernel read area: addr: 0003A000 len: 0800
+[17:35:51.827] kernel read area: addr: 0003A800 len: 0800
+[17:35:51.920] kernel read area: addr: 0003B000 len: 0800
+[17:35:52.014] kernel read area: addr: 0003B800 len: 0800
+[17:35:52.124] kernel read area: addr: 0003C000 len: 0800
+[17:35:52.217] kernel read area: addr: 0003C800 len: 0800
+[17:35:52.311] kernel read area: addr: 0003D000 len: 0800
+[17:35:52.405] kernel read area: addr: 0003D800 len: 0800
+[17:35:52.499] kernel read area: addr: 0003E000 len: 0800
+[17:35:52.592] kernel read area: addr: 0003E800 len: 0800
+[17:35:52.702] kernel read area: addr: 0003F000 len: 0800
+[17:35:52.795] kernel read area: addr: 0003F800 len: 0800
+[17:35:52.889] kernel read area: addr: 00040000 len: 0800
+[17:35:52.983] kernel read area: addr: 00040800 len: 0800
+[17:35:53.077] kernel read area: addr: 00041000 len: 0800
+[17:35:53.170] kernel read area: addr: 00041800 len: 0800
+[17:35:53.280] kernel read area: addr: 00042000 len: 0800
+[17:35:53.374] kernel read area: addr: 00042800 len: 0800
+[17:35:53.467] kernel read area: addr: 00043000 len: 0800
+[17:35:53.561] kernel read area: addr: 00043800 len: 0800
+[17:35:53.655] kernel read area: addr: 00044000 len: 0800
+[17:35:53.749] kernel read area: addr: 00044800 len: 0800
+[17:35:53.858] kernel read area: addr: 00045000 len: 0800
+[17:35:53.952] kernel read area: addr: 00045800 len: 0800
+[17:35:54.046] kernel read area: addr: 00046000 len: 0800
+[17:35:54.139] kernel read area: addr: 00046800 len: 0800
+[17:35:54.233] kernel read area: addr: 00047000 len: 0800
+[17:35:54.342] kernel read area: addr: 00047800 len: 0800
+[17:35:54.436] kernel read area: addr: 00048000 len: 0800
+[17:35:54.530] kernel read area: addr: 00048800 len: 0800
+[17:35:54.624] kernel read area: addr: 00049000 len: 0800
+[17:35:54.717] kernel read area: addr: 00049800 len: 0800
+[17:35:54.811] kernel read area: addr: 0004A000 len: 0800
+[17:35:54.905] kernel read area: addr: 0004A800 len: 0800
+[17:35:55.014] kernel read area: addr: 0004B000 len: 0800
+[17:35:55.108] kernel read area: addr: 0004B800 len: 0800
+[17:35:55.202] kernel read area: addr: 0004C000 len: 0800
+[17:35:55.296] kernel read area: addr: 0004C800 len: 0800
+[17:35:55.389] kernel read area: addr: 0004D000 len: 0800
+[17:35:55.483] kernel read area: addr: 0004D800 len: 0800
+[17:35:55.592] kernel read area: addr: 0004E000 len: 0800
+[17:35:55.686] kernel read area: addr: 0004E800 len: 0800
+[17:35:55.780] kernel read area: addr: 0004F000 len: 0800
+[17:35:55.874] kernel read area: addr: 0004F800 len: 0800
+[17:35:55.983] kernel read area: addr: 00050000 len: 0800
+[17:35:56.061] kernel read area: addr: 00050800 len: 0800
+[17:35:56.171] kernel read area: addr: 00051000 len: 0800
+[17:35:56.264] kernel read area: addr: 00051800 len: 0800
+[17:35:56.358] kernel read area: addr: 00052000 len: 0800
+[17:35:56.452] kernel read area: addr: 00052800 len: 0800
+[17:35:56.546] kernel read area: addr: 00053000 len: 0800
+[17:35:56.639] kernel read area: addr: 00053800 len: 0800
+[17:35:56.749] kernel read area: addr: 00054000 len: 0800
+[17:35:56.842] kernel read area: addr: 00054800 len: 0800
+[17:35:56.936] kernel read area: addr: 00055000 len: 0800
+[17:35:57.030] kernel read area: addr: 00055800 len: 0800
+[17:35:57.124] kernel read area: addr: 00056000 len: 0800
+[17:35:57.217] kernel read area: addr: 00056800 len: 0800
+[17:35:57.311] kernel read area: addr: 00057000 len: 0800
+[17:35:57.405] kernel read area: addr: 00057800 len: 0800
+[17:35:57.514] kernel read area: addr: 00058000 len: 0800
+[17:35:57.608] kernel read area: addr: 00058800 len: 0800
+[17:35:57.702] kernel read area: addr: 00059000 len: 0800
+[17:35:57.796] kernel read area: addr: 00059800 len: 0800
+[17:35:57.889] kernel read area: addr: 0005A000 len: 0800
+[17:35:57.983] kernel read area: addr: 0005A800 len: 0800
+[17:35:58.092] kernel read area: addr: 0005B000 len: 0800
+[17:35:58.187] kernel read area: addr: 0005B800 len: 0800
+[17:35:58.281] kernel read area: addr: 0005C000 len: 0800
+[17:35:58.375] kernel read area: addr: 0005C800 len: 0800
+[17:35:58.469] kernel read area: addr: 0005D000 len: 0800
+[17:35:58.562] kernel read area: addr: 0005D800 len: 0800
+[17:35:58.656] kernel read area: addr: 0005E000 len: 0800
+[17:35:58.750] kernel read area: addr: 0005E800 len: 0800
+[17:35:58.862] kernel read area: addr: 0005F000 len: 0800
+[17:35:58.947] kernel read area: addr: 0005F800 len: 0800
+[17:35:59.056] kernel read area: addr: 00060000 len: 0800
+[17:35:59.150] kernel read area: addr: 00060800 len: 0800
+[17:35:59.244] kernel read area: addr: 00061000 len: 0800
+[17:35:59.337] kernel read area: addr: 00061800 len: 0800
+[17:35:59.447] kernel read area: addr: 00062000 len: 0800
+[17:35:59.541] kernel read area: addr: 00062800 len: 0800
+[17:35:59.634] kernel read area: addr: 00063000 len: 0800
+[17:35:59.728] kernel read area: addr: 00063800 len: 0800
+[17:35:59.822] kernel read area: addr: 00064000 len: 0800
+[17:35:59.915] kernel read area: addr: 00064800 len: 0800
+[17:36:00.025] kernel read area: addr: 00065000 len: 0800
+[17:36:00.103] kernel read area: addr: 00065800 len: 0800
+[17:36:00.212] kernel read area: addr: 00066000 len: 0800
+[17:36:00.306] kernel read area: addr: 00066800 len: 0800
+[17:36:00.400] kernel read area: addr: 00067000 len: 0800
+[17:36:00.494] kernel read area: addr: 00067800 len: 0800
+[17:36:00.603] kernel read area: addr: 00068000 len: 0800
+[17:36:00.681] kernel read area: addr: 00068800 len: 0800
+[17:36:00.791] kernel read area: addr: 00069000 len: 0800
+[17:36:00.884] kernel read area: addr: 00069800 len: 0800
+[17:36:00.978] kernel read area: addr: 0006A000 len: 0800
+[17:36:01.072] kernel read area: addr: 0006A800 len: 0800
+[17:36:01.166] kernel read area: addr: 0006B000 len: 0800
+[17:36:01.259] kernel read area: addr: 0006B800 len: 0800
+[17:36:01.369] kernel read area: addr: 0006C000 len: 0800
+[17:36:01.462] kernel read area: addr: 0006C800 len: 0800
+[17:36:01.556] kernel read area: addr: 0006D000 len: 0800
+[17:36:01.650] kernel read area: addr: 0006D800 len: 0800
+[17:36:01.744] kernel read area: addr: 0006E000 len: 0800
+[17:36:01.837] kernel read area: addr: 0006E800 len: 0800
+[17:36:01.947] kernel read area: addr: 0006F000 len: 0800
+[17:36:02.041] kernel read area: addr: 0006F800 len: 0800
+[17:36:02.134] kernel read area: addr: 00070000 len: 0800
+[17:36:02.228] kernel read area: addr: 00070800 len: 0800
+[17:36:02.322] kernel read area: addr: 00071000 len: 0800
+[17:36:02.416] kernel read area: addr: 00071800 len: 0800
+[17:36:02.525] kernel read area: addr: 00072000 len: 0800
+[17:36:02.619] kernel read area: addr: 00072800 len: 0800
+[17:36:02.713] kernel read area: addr: 00073000 len: 0800
+[17:36:02.806] kernel read area: addr: 00073800 len: 0800
+[17:36:02.900] kernel read area: addr: 00074000 len: 0800
+[17:36:02.994] kernel read area: addr: 00074800 len: 0800
+[17:36:03.103] kernel read area: addr: 00075000 len: 0800
+[17:36:03.197] kernel read area: addr: 00075800 len: 0800
+[17:36:03.291] kernel read area: addr: 00076000 len: 0800
+[17:36:03.385] kernel read area: addr: 00076800 len: 0800
+[17:36:03.478] kernel read area: addr: 00077000 len: 0800
+[17:36:03.572] kernel read area: addr: 00077800 len: 0800
+[17:36:03.681] kernel read area: addr: 00078000 len: 0800
+[17:36:03.775] kernel read area: addr: 00078800 len: 0800
+[17:36:03.869] kernel read area: addr: 00079000 len: 0800
+[17:36:03.963] kernel read area: addr: 00079800 len: 0800
+[17:36:04.056] kernel read area: addr: 0007A000 len: 0800
+[17:36:04.150] kernel read area: addr: 0007A800 len: 0800
+[17:36:04.260] kernel read area: addr: 0007B000 len: 0800
+[17:36:04.353] kernel read area: addr: 0007B800 len: 0800
+[17:36:04.447] kernel read area: addr: 0007C000 len: 0800
+[17:36:04.541] kernel read area: addr: 0007C800 len: 0800
+[17:36:04.635] kernel read area: addr: 0007D000 len: 0800
+[17:36:04.728] kernel read area: addr: 0007D800 len: 0800
+[17:36:04.838] kernel read area: addr: 0007E000 len: 0800
+[17:36:04.931] kernel read area: addr: 0007E800 len: 0800
+[17:36:05.041] kernel read area: addr: 0007F000 len: 0800
+[17:36:05.135] kernel read area: addr: 0007F800 len: 0800
+[17:36:05.228] kernel read area: addr: 00080000 len: 0800
+[17:36:05.322] kernel read area: addr: 00080800 len: 0800
+[17:36:05.416] kernel read area: addr: 00081000 len: 0800
+[17:36:05.510] kernel read area: addr: 00081800 len: 0800
+[17:36:05.619] kernel read area: addr: 00082000 len: 0800
+[17:36:05.713] kernel read area: addr: 00082800 len: 0800
+[17:36:05.806] kernel read area: addr: 00083000 len: 0800
+[17:36:05.900] kernel read area: addr: 00083800 len: 0800
+[17:36:05.994] kernel read area: addr: 00084000 len: 0800
+[17:36:06.088] kernel read area: addr: 00084800 len: 0800
+[17:36:06.197] kernel read area: addr: 00085000 len: 0800
+[17:36:06.275] kernel read area: addr: 00085800 len: 0800
+[17:36:06.385] kernel read area: addr: 00086000 len: 0800
+[17:36:06.478] kernel read area: addr: 00086800 len: 0800
+[17:36:06.572] kernel read area: addr: 00087000 len: 0800
+[17:36:06.666] kernel read area: addr: 00087800 len: 0800
+[17:36:06.760] kernel read area: addr: 00088000 len: 0800
+[17:36:06.853] kernel read area: addr: 00088800 len: 0800
+[17:36:06.963] kernel read area: addr: 00089000 len: 0800
+[17:36:07.058] kernel read area: addr: 00089800 len: 0800
+[17:36:07.151] kernel read area: addr: 0008A000 len: 0800
+[17:36:07.248] kernel read area: addr: 0008A800 len: 0800
+[17:36:07.358] kernel read area: addr: 0008B000 len: 0800
+[17:36:07.452] kernel read area: addr: 0008B800 len: 0800
+[17:36:07.545] kernel read area: addr: 0008C000 len: 0800
+[17:36:07.639] kernel read area: addr: 0008C800 len: 0800
+[17:36:07.749] kernel read area: addr: 0008D000 len: 0800
+[17:36:07.842] kernel read area: addr: 0008D800 len: 0800
+[17:36:07.936] kernel read area: addr: 0008E000 len: 0800
+[17:36:08.045] kernel read area: addr: 0008E800 len: 0800
+[17:36:08.139] kernel read area: addr: 0008F000 len: 0800
+[17:36:08.233] kernel read area: addr: 0008F800 len: 0800
+[17:36:08.639] kernel read area: addr: 000BB000 len: 0800
+[17:36:08.733] kernel read area: addr: 000BB800 len: 0800
+[17:36:08.827] kernel read area: addr: 000BC000 len: 0800
+[17:36:08.920] kernel read area: addr: 000BC800 len: 0800
+[17:36:09.014] kernel read area: addr: 000BD000 len: 0800
+[17:36:09.108] kernel read area: addr: 000BD800 len: 0800
+[17:36:09.217] kernel read area: addr: 000BE000 len: 0800
+[17:36:09.311] kernel read area: addr: 000BE800 len: 0800
+[17:36:09.405] kernel read area: addr: 000BF000 len: 0800
+[17:36:09.499] kernel read area: addr: 000BF800 len: 0800
+[17:36:09.608] kernel read area: addr: 000C0000 len: 0800
+[17:36:09.702] kernel read area: addr: 000C0800 len: 0800
+[17:36:09.811] kernel read area: addr: 000C1000 len: 0800
+[17:36:09.905] kernel read area: addr: 000C1800 len: 0800
+[17:36:09.999] kernel read area: addr: 000C2000 len: 0800
+[17:36:10.092] kernel read area: addr: 000C2800 len: 0800
+[17:36:10.202] kernel read area: addr: 000C3000 len: 0800
+[17:36:10.295] kernel read area: addr: 000C3800 len: 0800
+[17:36:10.389] kernel read area: addr: 000C4000 len: 0800
+[17:36:10.483] kernel read area: addr: 000C4800 len: 0800
+[17:36:10.592] kernel read area: addr: 000C5000 len: 0800
+[17:36:10.686] kernel read area: addr: 000C5800 len: 0800
+[17:36:10.780] kernel read area: addr: 000C6000 len: 0800
+[17:36:10.874] kernel read area: addr: 000C6800 len: 0800
+[17:36:10.983] kernel read area: addr: 000C7000 len: 0800
+[17:36:11.077] kernel read area: addr: 000C7800 len: 0800
+[17:36:11.186] kernel read area: addr: 000C8000 len: 0800
+[17:36:11.280] kernel read area: addr: 000C8800 len: 0800
+[17:36:11.374] kernel read area: addr: 000C9000 len: 0800
+[17:36:11.467] kernel read area: addr: 000C9800 len: 0800
+[17:36:11.577] kernel read area: addr: 000CA000 len: 0800
+[17:36:11.670] kernel read area: addr: 000CA800 len: 0800
+[17:36:11.764] kernel read area: addr: 000CB000 len: 0800
+[17:36:11.858] kernel read area: addr: 000CB800 len: 0800
+[17:36:11.967] kernel read area: addr: 000CC000 len: 0800
+[17:36:12.061] kernel read area: addr: 000CC800 len: 0800
+[17:36:12.155] kernel read area: addr: 000CD000 len: 0800
+[17:36:12.264] kernel read area: addr: 000CD800 len: 0800
+[17:36:12.358] kernel read area: addr: 000CE000 len: 0800
+[17:36:12.452] kernel read area: addr: 000CE800 len: 0800
+[17:36:12.561] kernel read area: addr: 000CF000 len: 0800
+[17:36:12.655] kernel read area: addr: 000CF800 len: 0800
+[17:36:12.749] kernel read area: addr: 000D0000 len: 0800
+[17:36:12.842] kernel read area: addr: 000D0800 len: 0800
+[17:36:12.952] kernel read area: addr: 000D1000 len: 0800
+[17:36:13.046] kernel read area: addr: 000D1800 len: 0800
+[17:36:13.139] kernel read area: addr: 000D2000 len: 0800
+[17:36:13.233] kernel read area: addr: 000D2800 len: 0800
+[17:36:13.342] kernel read area: addr: 000D3000 len: 0800
+[17:36:13.436] kernel read area: addr: 000D3800 len: 0800
+[17:36:13.545] kernel read area: addr: 000D4000 len: 0800
+[17:36:13.640] kernel read area: addr: 000D4800 len: 0800
+[17:36:13.740] kernel read area: addr: 000D5000 len: 0800
+[17:36:13.834] kernel read area: addr: 000D5800 len: 0800
+[17:36:13.934] kernel read area: addr: 000D6000 len: 0800
+[17:36:14.028] kernel read area: addr: 000D6800 len: 0800
+[17:36:14.117] kernel read area: addr: 000D7000 len: 0800
+[17:36:14.210] kernel read area: addr: 000D7800 len: 0800
+[17:36:14.320] kernel read area: addr: 000D8000 len: 0800
+[17:36:14.413] kernel read area: addr: 000D8800 len: 0800
+[17:36:14.538] kernel read area: addr: 000DC000 len: 0800
+[17:36:14.632] kernel read area: addr: 000DC800 len: 0800
+[17:36:14.726] kernel read area: addr: 000DD000 len: 0800
+[17:36:14.820] kernel read area: addr: 000DD800 len: 0800
+[17:36:14.929] kernel read area: addr: 000DE000 len: 0800
+[17:36:15.023] kernel read area: addr: 000DE800 len: 0800
+[17:36:15.117] kernel read area: addr: 000DF000 len: 0800
+[17:36:15.226] kernel read area: addr: 000DF800 len: 0800
+[17:36:15.554] kernel read area: addr: 000FF000 len: 0800
+[17:36:15.648] kernel read area: addr: 000FF800 len: 0800
+[17:36:15.742] interface close
+[17:36:15.742] interface close
+[17:36:36.721] AE5F300A (279 tables) inheriting 32BITBASE (1237 tables)
+[17:36:36.752] using metadata XML ID AE5F300A from file C:/Program Files (x86)/OpenECU/EcuFlash/rommetadata/subaru/Legacy GT/AE5F300A 2010 JDM Legacy GT AT.xml
+                which inherits XML ID 32BITBASE from file C:/Program Files (x86)/OpenECU/EcuFlash/rommetadata/subaru/Bases/32BITBASE.xml
+[17:36:36.752] ---notes for 32BITBASE---
+               2014/06/20 [Tactrix] Tactrix definition auto cleaned|merged w/ RomRaiderGitHubAlphaMay2014.
+               ---notes for AE5F300A---
+               2014/05/22 [Tactrix] Tactrix definition auto cleaned|merged w/ RomRaiderGitHubAlphaMay2014.
+[17:37:32.584] saving rom file C:/Users/andpdas/Desktop/read_image.srf
+[17:37:32.584] 1048576 byte image written.
+[17:37:32.584] 0 byte image written.
+[17:37:32.584] 0 byte image written.
