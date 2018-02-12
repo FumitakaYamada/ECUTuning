@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<LinkStorage Version="100" Type=".llf">
+	<ViewLayout>
+		<Pages SelectedPage="チューニング">
+			<Page Name="基本設定" NameStrId="123" CurrentTableDataID="3925" CurrentSettingsView="{9BADAAED-68E5-49CE-84F1-539CDE348210}">
+				<Views>
+					<View Type="Help Browser" Left="622" Top="2" Width="348" Height="368" Locked="true" FontSize="0" Guid="{E3FDD8CD-8642-45CA-99A2-D1A0823A41D1}" />
+					<View Type="Runtime Value List" Left="2" Top="372" Width="348" Height="258" Locked="true" FontSize="0" Guid="{798B32AF-365D-4C4F-B830-4F992417B8AD}" ColumnsCount="2" Caption="Aux" CaptionStrId="2420" SortMode="0" BoldFont="true">
+						<DataIDGroups>
+							<RuntimeViewDataIDGroup GroupID="0" DataIDs="3422,3423,3424,3425,3426,3427,3428,3429,3430,3431,3432,3433,3434,3435,3436,3437,3225,3226,3227,3228,3229,3230,3231,3232,3233,3234,3236,3237,3238" />
+						</DataIDGroups>
+					</View>
+					<View Type="Runtime Value List" Left="352" Top="372" Width="188" Height="258" Locked="true" FontSize="0" Guid="{9A1D0079-81F1-435C-AB97-49704BC62549}" ColumnsCount="1" Caption="デジタル" CaptionStrId="4779" SortMode="0" BoldFont="true">
+						<DataIDGroups>
+							<RuntimeViewDataIDGroup GroupID="0" DataIDs="2541,2542,2543,2544,2545,2546,2547,2548,2549,2550" />
+						</DataIDGroups>
+					</View>
+					<View Type="Runtime Value List" Left="542" Top="372" Width="218" Height="258" Locked="true" FontSize="0" Guid="{01343D97-7502-4E64-BB47-94D4B0CC4631}" ColumnsCount="1" Caption="アナログ" CaptionStrId="4780" SortMode="0" BoldFont="true">
+						<DataIDGroups>
+							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1334,1335,1336,1337,1338,1339,1355,1356,1357,1358,1359,1052,1053,1054,1055" />
+						</DataIDGroups>
+					</View>
+					<View Type="Runtime Value List" Left="762" Top="372" Width="208" Height="258" Locked="true" FontSize="0" Guid="{48BE04A4-D03B-4EF5-BC29-456B6D97CD14}" ColumnsCount="1" Caption="ステータス" CaptionStrId="4792" SortMode="0" BoldFont="true">
+						<DataIDGroups>
+							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1162,1186,1082,1999,1084,2111,2100,2101,2102,2324,2147,2092,2093,1225,1226" />
+						</DataIDGroups>
+					</View>
+					<View Type="Auto Settings" Left="2" Top="2" Width="618" Height="368" Locked="true" FontSize="0" Guid="{9BADAAED-68E5-49CE-84F1-539CDE348210}" BaseCaption="916" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="false" />
+				</Views>
+			</Page>
+			<Page Name="チューニング" NameStrId="4269" CurrentTableDataID="2365" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
+				<Views>
+					<View Type="Bar Gauge" Left="892" Top="382" Width="78" Height="248" Locked="true" FontSize="0" Guid="{D6AA2FCE-95CC-4DA1-9452-01A086CB0CBB}" ManualConfig="true" GaugeMin="0" GaugeMax="100" YellowLine="90" RedLine="95" LowYellowLine="-1" LowRedLine="-1" SmallTicks="5" LargeTicks="5" DecPlaces="1" GaugeColor="255" HighQuality="true" ViewCaption="">
+						<DataIDGroups>
+							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1078" />
+						</DataIDGroups>
+					</View>
+					<View Type="Runtime Value List" Left="2" Top="382" Width="308" Height="248" Locked="true" FontSize="0" Guid="{6845797A-9DFC-4BB1-819D-DB2E70E08AAE}" ColumnsCount="1" Caption="チューニング" CaptionStrId="4269" SortMode="0" BoldFont="true">
+						<DataIDGroups>
+							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1000,1001,1091" />
+							<RuntimeViewDataIDGroup GroupID="2365" DataIDs="2936,3042,2968,2967,3025,1007,1083,2395,3038,3008,3056,3010" />
+							<RuntimeViewDataIDGroup GroupID="2366" DataIDs="1064,1048,1203,1395,1396" />
+							<RuntimeViewDataIDGroup GroupID="3879" DataIDs="2936,3042" />
+							<RuntimeViewDataIDGroup GroupID="2367" DataIDs="2936,3042,2968,2967,3026,1007,1083" />
+							<RuntimeViewDataIDGroup GroupID="3870" DataIDs="1203,1081" />
+						</DataIDGroups>
+					</View>
+					<View Type="Runtime Value List" Left="312" Top="382" Width="218" Height="248" Locked="true" FontSize="0" Guid="{F004BCAD-8B8C-4842-95A1-48551E3D4042}" ColumnsCount="1" Caption="エンジン保護" CaptionStrId="163" SortMode="0" BoldFont="true">
+						<DataIDGroups>
+							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1154,1155,1626,1627,1630,1595,1578,1628,1600,1587,1599,1634,1680,1681" />
+						</DataIDGroups>
+					</View>
+					<View Type="Dial Gauge" Left="652" Top="382" Width="238" Height="248" Locked="true" FontSize="0" Guid="{434D9269-59C8-4F91-A109-28760D31E42D}" ManualConfig="false" GaugeMin="0.7" GaugeMax="1.3" YellowLine="2.3" RedLine="2.3" LowYellowLine="-0.3" LowRedLine="-0.3" SmallTicks="5" LargeTicks="10" DecPlaces="3" GaugeColor="16777002" HighQuality="true" ViewCaption="">
+						<DataIDGroups>
+							<RuntimeViewDataIDGroup GroupID="0" DataIDs="3040" />
+							<RuntimeViewDataIDGroup GroupID="2366" DataIDs="1064" />
+							<RuntimeViewDataIDGroup GroupID="2368" DataIDs="1064" />
+						</DataIDGroups>
+					</View>
+					<View Type="Digital Gauge" Left="532" Top="382" Width="118" Height="248" Locked="true" FontSize="0" Guid="{4E83C851-F5DD-44E1-879A-F85FB823042F}">
+						<DataIDGroups>
+							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1004,1011,1078" />
+						</DataIDGroups>
+					</View>
+					<View Type="Auto Settings" Left="652" Top="2" Width="318" Height="378" Locked="true" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="3436" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="true" />
+					<View Type="Auto Settings" Left="2" Top="2" Width="648" Height="378" Locked="true" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="1854" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="true" />
+					<View Type="Mixture Map" Left="972" Top="2" Width="1428" Height="888" Locked="false" FontSize="0" Guid="{29659737-E575-4548-BB78-51F87A72DD48}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="422.544987678528" Caption="ミクスチャーマップ (燃料テーブル 1)" CaptionStrId="0" FuelTable="2365" RPMSeriesDataID="1000" LoadSeriesDataID="1091" Load2SeriesDataID="1091" MixtureSeriesDataID="3040" CondFilter1SeriesDataID="0" CondFilter2SeriesDataID="0" CondFilter3SeriesDataID="0" DeltaFilter1SeriesDataID="0" DeltaFilter2SeriesDataID="0" DeltaFilter3SeriesDataID="0" Cond1Greater="false" Cond2Greater="false" Cond3Greater="false" Delta1Greater="false" Delta2Greater="false" Delta3Greater="false" Cond1Enabled="false" Cond2Enabled="false" Cond3Enabled="false" Delta1Enabled="false" Delta2Enabled="false" Delta3Enabled="false" ZoneAreaEnabled="false" MinSamplesEnabled="false" Cond1Value="0" Cond2Value="0" Cond3Value="0" Delta1Value="0" Delta2Value="0" Delta3Value="0" ActiveZoneArea="0" MinSamples="0" ShowTarget="true" ShowActual="true" ShowSamples="true" ShowError="true" AbsolueError="0.27">
+						<LogParameterViewInfos />
+					</View>
+				</Views>
+			</Page>
+			<Page Name="ロギング" NameStrId="2070" CurrentTableDataID="0" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
+				<Views>
+					<View Type="Navigator" Left="2" Top="512" Width="968" Height="118" Locked="true" FontSize="12" Guid="{A20FDAB3-4072-4D1C-B990-FAF5D598D0D2}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="422.544987678528" Caption="ナビゲーター" CaptionStrId="4263">
+						<LogParameterViewInfos>
+							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
+						</LogParameterViewInfos>
+						<Navigator ShowOverlays="false" XAxisVisible="true" MarkersVisible="true" XScrollBarVisible="false" OffsetAxisVisible="false">
+							<PlotSurfaceGroup DisplayMode="0" YAxisVisible="false" YScrollBarVisible="false">
+								<PlotSurface Proportion="-1" />
+							</PlotSurfaceGroup>
+						</Navigator>
+					</View>
+					<View Type="XY Plot" Left="2" Top="312" Width="318" Height="198" Locked="true" FontSize="12" Guid="{297539FC-5002-4EF5-9960-D9AE683AFBBF}" ZoomLinked="false" CursorLinked="false" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ラムダ 1 温度" CaptionStrId="5118">
+						<LogParameterViewInfos>
+							<LogParameterViewInfo DataID="1001" DisplayGroup="0" />
+						</LogParameterViewInfos>
+						<XYPlot ShowOverlays="true" XAxisParameterDataID="1000" ColorRangeParameterDataID="3042" UseColorRange="true" ManualRange="true" ManualMin="0" ManualMax="8000" ShowColorLegend="true" ShowLines="false" LineWidth="1" ShowPoints="true" PointSize="1" PointStyle="0">
+							<PlotSurfaceGroup DisplayMode="0" ColumnCount="-1" />
+							<ColorRange Name="Unnamed">
+								<ColorRanges>
+									<ColorSpan LowerBound="0.7" UpperBound="0.775" Color="65280" />
+									<ColorSpan LowerBound="0.775" UpperBound="0.85" Color="65343" />
+									<ColorSpan LowerBound="0.85" UpperBound="0.925" Color="65407" />
+									<ColorSpan LowerBound="0.925" UpperBound="1" Color="65471" />
+									<ColorSpan LowerBound="1" UpperBound="1.075" Color="65535" />
+									<ColorSpan LowerBound="1.075" UpperBound="1.15" Color="43775" />
+									<ColorSpan LowerBound="1.15" UpperBound="1.225" Color="22015" />
+									<ColorSpan LowerBound="1.225" UpperBound="1.3" Color="255" />
+								</ColorRanges>
+							</ColorRange>
+						</XYPlot>
+					</View>
+					<View Type="Parameter List" Left="732" Top="2" Width="238" Height="508" Locked="true" FontSize="12" Guid="{6ABFB8DC-7089-4C4E-81E3-1636FB3D227E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="422.544987678528" Caption="パラメータリスト" CaptionStrId="0" ColumnWidths="106,75,75">
+						<LogParameterViewInfos>
+							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1001" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1091" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1051" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1004" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1011" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1078" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1007" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2967" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1083" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1064" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1081" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1203" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2587" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="3042" DisplayGroup="0" />
+						</LogParameterViewInfos>
+					</View>
+					<View Type="Time Plot" Left="2" Top="2" Width="728" Height="308" Locked="true" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="422.544987678528" Caption="タイムプロット" CaptionStrId="4264">
+						<LogParameterViewInfos>
+							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1001" DisplayGroup="1" />
+							<LogParameterViewInfo DataID="1004" DisplayGroup="2" />
+						</LogParameterViewInfos>
+						<TimePlot ShowOverlays="true" XAxisVisible="true" MarkersVisible="true" XScrollBarVisible="true" OffsetAxisVisible="true">
+							<PlotSurfaceGroup DisplayMode="0" YAxisVisible="true" YScrollBarVisible="true">
+								<PlotSurface Proportion="-1" />
+								<PlotSurface Proportion="-1" />
+								<PlotSurface Proportion="-1" />
+							</PlotSurfaceGroup>
+						</TimePlot>
+					</View>
+					<View Type="Value List" Left="322" Top="312" Width="408" Height="198" Locked="true" FontSize="12" Guid="{804681CC-EFF8-4E86-919D-FBFFEEA5746E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="422.544987678528" Caption="ログ値のリスト" CaptionStrId="0" ColumnWidths="75,75,75,75,75,75,75">
+						<LogParameterViewInfos>
+							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1001" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1004" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1011" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1078" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1081" DisplayGroup="0" />
+						</LogParameterViewInfos>
+					</View>
+				</Views>
+			</Page>
+			<Page Name="ミクスチャーマップ" NameStrId="4271" CurrentTableDataID="2365" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
+				<Views>
+					<View Type="Target Gauge" Left="412" Top="392" Width="538" Height="88" Locked="true" FontSize="0" Guid="{FB967A4B-0EFF-4113-8637-A314389D1390}" ManualConfig="true" GaugeMin="0" GaugeMax="100" YellowLine="80" RedLine="90" LowYellowLine="-1" LowRedLine="-1" SmallTicks="5" LargeTicks="5" DecPlaces="3" GaugeColor="16750128" HighQuality="true" ViewCaption="">
+						<DataIDGroups>
+							<RuntimeViewDataIDGroup GroupID="0" DataIDs="2936,3042" />
+						</DataIDGroups>
+					</View>
+					<View Type="Digital Gauge" Left="772" Top="482" Width="178" Height="168" Locked="true" FontSize="0" Guid="{4EB92357-A1EA-4C32-B5A7-79CF0DE2C9E2}">
+						<DataIDGroups>
+							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1004" />
+						</DataIDGroups>
+					</View>
+					<View Type="Digital Gauge" Left="412" Top="482" Width="178" Height="168" Locked="true" FontSize="0" Guid="{BA7B3F6A-B838-4650-B9F7-561971478347}">
+						<DataIDGroups>
+							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1000" />
+						</DataIDGroups>
+					</View>
+					<View Type="Digital Gauge" Left="592" Top="482" Width="178" Height="168" Locked="true" FontSize="0" Guid="{E42B9CD2-F1F4-4F8D-8DBD-81572090E9A7}">
+						<DataIDGroups>
+							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1011" />
+						</DataIDGroups>
+					</View>
+					<View Type="Auto Settings" Left="2" Top="392" Width="408" Height="258" Locked="true" FontSize="0" Guid="{4AD9F864-5266-42F2-A8CF-2B4B47996975}" BaseCaption="1854" MenuLocked="true" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="false" />
+					<View Type="Mixture Map" Left="2" Top="2" Width="948" Height="388" Locked="true" FontSize="12" Guid="{A767950B-B719-4CFE-95AC-DDADA8006E43}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="422.544987678528" Caption="Mixture Map (Fuel Table1)" CaptionStrId="0" FuelTable="2365" RPMSeriesDataID="1000" LoadSeriesDataID="1091" Load2SeriesDataID="1091" MixtureSeriesDataID="3040" CondFilter1SeriesDataID="0" CondFilter2SeriesDataID="0" CondFilter3SeriesDataID="0" DeltaFilter1SeriesDataID="0" DeltaFilter2SeriesDataID="0" DeltaFilter3SeriesDataID="0" Cond1Greater="false" Cond2Greater="false" Cond3Greater="false" Delta1Greater="false" Delta2Greater="false" Delta3Greater="false" Cond1Enabled="false" Cond2Enabled="false" Cond3Enabled="false" Delta1Enabled="false" Delta2Enabled="false" Delta3Enabled="false" ZoneAreaEnabled="true" MinSamplesEnabled="true" Cond1Value="0" Cond2Value="0" Cond3Value="0" Delta1Value="0" Delta2Value="0" Delta3Value="0" ActiveZoneArea="50" MinSamples="10" ShowTarget="true" ShowActual="true" ShowSamples="true" ShowError="true" AbsolueError="0.27">
+						<LogParameterViewInfos />
+					</View>
+				</Views>
+			</Page>
+		</Pages>
+	</ViewLayout>
+</LinkStorage>
