@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <LinkStorage Version="100" Type=".llf">
 	<ViewLayout>
-		<Pages SelectedPage="チューニング">
+		<Pages SelectedPage="ロギング">
 			<Page Name="基本設定" NameStrId="123" CurrentTableDataID="3925" CurrentSettingsView="{9BADAAED-68E5-49CE-84F1-539CDE348210}">
 				<Views>
 					<View Type="Help Browser" Left="622" Top="2" Width="348" Height="368" Locked="true" FontSize="0" Guid="{E3FDD8CD-8642-45CA-99A2-D1A0823A41D1}" />
@@ -28,8 +28,18 @@
 					<View Type="Auto Settings" Left="2" Top="2" Width="618" Height="368" Locked="true" FontSize="0" Guid="{9BADAAED-68E5-49CE-84F1-539CDE348210}" BaseCaption="1415" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="false" />
 				</Views>
 			</Page>
-			<Page Name="チューニング" NameStrId="4269" CurrentTableDataID="3915" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
+			<Page Name="チューニング" NameStrId="4269" CurrentTableDataID="3800" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
 				<Views>
+					<View Type="Runtime Value List" Left="2" Top="382" Width="308" Height="248" Locked="true" FontSize="0" Guid="{6845797A-9DFC-4BB1-819D-DB2E70E08AAE}" ColumnsCount="1" Caption="チューニング" CaptionStrId="4269" SortMode="0" BoldFont="true">
+						<DataIDGroups>
+							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1000,1001,1091" />
+							<RuntimeViewDataIDGroup GroupID="2365" DataIDs="2936,3042,2968,2967,3025,1007,1083,2395,3038,3008,3056,3010" />
+							<RuntimeViewDataIDGroup GroupID="2366" DataIDs="1064,1048,1203,1395,1396" />
+							<RuntimeViewDataIDGroup GroupID="3879" DataIDs="2936,3042" />
+							<RuntimeViewDataIDGroup GroupID="2367" DataIDs="2936,3042,2968,2967,3026,1007,1083" />
+							<RuntimeViewDataIDGroup GroupID="3870" DataIDs="1203,1081" />
+						</DataIDGroups>
+					</View>
 					<View Type="Runtime Value List" Left="312" Top="382" Width="218" Height="248" Locked="true" FontSize="0" Guid="{F004BCAD-8B8C-4842-95A1-48551E3D4042}" ColumnsCount="1" Caption="エンジン保護" CaptionStrId="163" SortMode="0" BoldFont="true">
 						<DataIDGroups>
 							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1154,1155,1626,1627,1630,1595,1578,1628,1600,1587,1599,1634,1680,1681" />
@@ -57,25 +67,15 @@
 							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1094" />
 						</DataIDGroups>
 					</View>
-					<View Type="Runtime Value List" Left="2" Top="382" Width="308" Height="248" Locked="true" FontSize="0" Guid="{6845797A-9DFC-4BB1-819D-DB2E70E08AAE}" ColumnsCount="1" Caption="チューニング" CaptionStrId="4269" SortMode="0" BoldFont="true">
-						<DataIDGroups>
-							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1000,1001,1091" />
-							<RuntimeViewDataIDGroup GroupID="2365" DataIDs="2936,3042,2968,2967,3025,1007,1083,2395,3038,3008,3056,3010" />
-							<RuntimeViewDataIDGroup GroupID="2366" DataIDs="1064,1048,1203,1395,1396" />
-							<RuntimeViewDataIDGroup GroupID="3879" DataIDs="2936,3042" />
-							<RuntimeViewDataIDGroup GroupID="2367" DataIDs="2936,3042,2968,2967,3026,1007,1083" />
-							<RuntimeViewDataIDGroup GroupID="3870" DataIDs="1203,1081" />
-						</DataIDGroups>
-					</View>
-					<View Type="Auto Settings" Left="652" Top="2" Width="318" Height="378" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="590" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="true" />
-					<View Type="Auto Settings" Left="0" Top="0" Width="652" Height="382" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="3434" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="true" />
+					<View Type="Auto Settings" Left="652" Top="2" Width="318" Height="378" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="721" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="true" />
+					<View Type="Auto Settings" Left="2" Top="2" Width="648" Height="378" Locked="true" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="2994" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="true" />
 				</Views>
 			</Page>
-			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="2366" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
+			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="1827" CurrentSettingsView="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}">
 				<Views>
-					<View Type="Auto Settings" Left="2" Top="642" Width="1338" Height="688" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="1854" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="true" />
 					<View Type="Help Browser" Left="1342" Top="2" Width="1178" Height="1328" Locked="false" FontSize="0" Guid="{D1C63C24-1706-47CA-95B3-78B88A95C552}" />
-					<View Type="Auto Settings" Left="2" Top="2" Width="1338" Height="638" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="1857" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="true" KeyRotation="true" />
+					<View Type="Auto Settings" Left="2" Top="2" Width="1338" Height="638" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="366" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="true" />
+					<View Type="Auto Settings" Left="2" Top="642" Width="1338" Height="688" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="1341" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="true" />
 				</Views>
 			</Page>
 			<Page Name="ロギング" NameStrId="2070" CurrentTableDataID="0" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
@@ -138,30 +138,7 @@
 							</ColorRange>
 						</XYPlot>
 					</View>
-					<View Type="Value List" Left="1452" Top="772" Width="1068" Height="278" Locked="false" FontSize="12" Guid="{804681CC-EFF8-4E86-919D-FBFFEEA5746E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ログ値のリスト" CaptionStrId="0" ColumnWidths="75,75,75,75,75,75,75,75,75,75">
-						<LogParameterViewInfos>
-							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1075" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1001" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1004" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1011" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1078" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1081" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1094" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1064" DisplayGroup="0" />
-						</LogParameterViewInfos>
-					</View>
-					<View Type="Navigator" Left="2" Top="1052" Width="2518" Height="268" Locked="false" FontSize="12" Guid="{A20FDAB3-4072-4D1C-B990-FAF5D598D0D2}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ナビゲーター" CaptionStrId="4263">
-						<LogParameterViewInfos>
-							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
-						</LogParameterViewInfos>
-						<Navigator ShowOverlays="false" XAxisVisible="true" MarkersVisible="true" XScrollBarVisible="false" OffsetAxisVisible="false">
-							<PlotSurfaceGroup DisplayMode="0" YAxisVisible="false" YScrollBarVisible="false">
-								<PlotSurface Proportion="-1" />
-							</PlotSurfaceGroup>
-						</Navigator>
-					</View>
-					<View Type="Time Plot" Left="2" Top="12" Width="2278" Height="768" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="タイムプロット" CaptionStrId="4264">
+					<View Type="Time Plot" Left="2" Top="2" Width="2278" Height="768" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="タイムプロット" CaptionStrId="4264">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1091" DisplayGroup="1" />
@@ -185,6 +162,10 @@
 							<LogParameterViewInfo DataID="2936" DisplayGroup="6" />
 							<LogParameterViewInfo DataID="1075" DisplayGroup="7" />
 							<LogParameterViewInfo DataID="3003" DisplayGroup="7" />
+							<LogParameterViewInfo DataID="3" DisplayGroup="8" />
+							<LogParameterViewInfo DataID="4" DisplayGroup="8" />
+							<LogParameterViewInfo DataID="1038" DisplayGroup="8" />
+							<LogParameterViewInfo DataID="1157" DisplayGroup="8" />
 						</LogParameterViewInfos>
 						<TimePlot ShowOverlays="true" XAxisVisible="true" MarkersVisible="true" XScrollBarVisible="true" OffsetAxisVisible="true">
 							<PlotSurfaceGroup DisplayMode="0" YAxisVisible="true" YScrollBarVisible="true">
@@ -196,8 +177,32 @@
 								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="-1" />
+								<PlotSurface Proportion="-1" />
 							</PlotSurfaceGroup>
 						</TimePlot>
+					</View>
+					<View Type="Value List" Left="1452" Top="772" Width="1068" Height="278" Locked="false" FontSize="12" Guid="{804681CC-EFF8-4E86-919D-FBFFEEA5746E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ログ値のリスト" CaptionStrId="0" ColumnWidths="75,75,75,75,75,75,75,75,75,75">
+						<LogParameterViewInfos>
+							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1075" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1001" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1004" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1011" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1078" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1081" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1094" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1064" DisplayGroup="0" />
+						</LogParameterViewInfos>
+					</View>
+					<View Type="Navigator" Left="0" Top="1050" Width="2522" Height="272" Locked="false" FontSize="12" Guid="{A20FDAB3-4072-4D1C-B990-FAF5D598D0D2}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ナビゲーター" CaptionStrId="4263">
+						<LogParameterViewInfos>
+							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
+						</LogParameterViewInfos>
+						<Navigator ShowOverlays="false" XAxisVisible="true" MarkersVisible="true" XScrollBarVisible="false" OffsetAxisVisible="false">
+							<PlotSurfaceGroup DisplayMode="0" YAxisVisible="false" YScrollBarVisible="false">
+								<PlotSurface Proportion="-1" />
+							</PlotSurfaceGroup>
+						</Navigator>
 					</View>
 				</Views>
 			</Page>
