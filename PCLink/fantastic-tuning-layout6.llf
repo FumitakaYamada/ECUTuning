@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <LinkStorage Version="100" Type=".llf">
 	<ViewLayout>
-		<Pages SelectedPage="じっくりチューニング">
+		<Pages SelectedPage="ロギング">
 			<Page Name="基本設定" NameStrId="123" CurrentTableDataID="3925" CurrentSettingsView="{9BADAAED-68E5-49CE-84F1-539CDE348210}">
 				<Views>
 					<View Type="Help Browser" Left="622" Top="2" Width="348" Height="368" Locked="true" FontSize="0" Guid="{E3FDD8CD-8642-45CA-99A2-D1A0823A41D1}" />
@@ -71,27 +71,16 @@
 					<View Type="Auto Settings" Left="2" Top="2" Width="648" Height="378" Locked="true" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="1746" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="true" />
 				</Views>
 			</Page>
-			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="2870" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
+			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="2944" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
 				<Views>
-					<View Type="Help Browser" Left="1342" Top="2" Width="1178" Height="1328" Locked="false" FontSize="0" Guid="{D1C63C24-1706-47CA-95B3-78B88A95C552}" />
 					<View Type="Auto Settings" Left="2" Top="642" Width="1338" Height="688" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="1854" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="true" KeyRotation="true" />
-					<View Type="Auto Settings" Left="0" Top="0" Width="1342" Height="642" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="2316" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="true" />
+					<View Type="Help Browser" Left="1342" Top="2" Width="1178" Height="1328" Locked="false" FontSize="0" Guid="{D1C63C24-1706-47CA-95B3-78B88A95C552}" />
+					<View Type="Auto Settings" Left="2" Top="2" Width="1338" Height="638" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="4699" MenuLocked="false" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="true" />
 				</Views>
 			</Page>
 			<Page Name="ロギング" NameStrId="2070" CurrentTableDataID="0" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
 				<Views>
-					<View Type="Navigator" Left="2" Top="1052" Width="2518" Height="268" Locked="false" FontSize="12" Guid="{A20FDAB3-4072-4D1C-B990-FAF5D598D0D2}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ナビゲーター" CaptionStrId="4263">
-						<LogParameterViewInfos>
-							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1153" DisplayGroup="0" />
-						</LogParameterViewInfos>
-						<Navigator ShowOverlays="false" XAxisVisible="true" MarkersVisible="true" XScrollBarVisible="false" OffsetAxisVisible="false">
-							<PlotSurfaceGroup DisplayMode="0" YAxisVisible="false" YScrollBarVisible="false">
-								<PlotSurface Proportion="-1" />
-							</PlotSurfaceGroup>
-						</Navigator>
-					</View>
-					<View Type="Parameter List" Left="2282" Top="2" Width="238" Height="768" Locked="false" FontSize="12" Guid="{6ABFB8DC-7089-4C4E-81E3-1636FB3D227E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="パラメータリスト" CaptionStrId="0" ColumnWidths="106,75,75">
+					<View Type="Parameter List" Left="2282" Top="2" Width="238" Height="768" Locked="false" FontSize="12" Guid="{6ABFB8DC-7089-4C4E-81E3-1636FB3D227E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="-8.85999965667725" DisplayTimeRangeEnd="841.867980957031" Caption="パラメータリスト" CaptionStrId="0" ColumnWidths="106,75,75">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1001" DisplayGroup="0" />
@@ -119,7 +108,18 @@
 							<LogParameterViewInfo DataID="1099" DisplayGroup="0" />
 						</LogParameterViewInfos>
 					</View>
-					<View Type="Value List" Left="2" Top="772" Width="2518" Height="278" Locked="false" FontSize="12" Guid="{804681CC-EFF8-4E86-919D-FBFFEEA5746E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ログ値のリスト" CaptionStrId="0" ColumnWidths="75,75,75,75,75,75,75,75,75,75,75,75,75,75,46,124,121,100,112,80,125,142">
+					<View Type="Navigator" Left="2" Top="1052" Width="2518" Height="268" Locked="false" FontSize="12" Guid="{A20FDAB3-4072-4D1C-B990-FAF5D598D0D2}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="-8.85999965667725" DisplayTimeRangeEnd="841.867980957031" Caption="ナビゲーター" CaptionStrId="4263">
+						<LogParameterViewInfos>
+							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1153" DisplayGroup="0" />
+						</LogParameterViewInfos>
+						<Navigator ShowOverlays="false" XAxisVisible="true" MarkersVisible="true" XScrollBarVisible="false" OffsetAxisVisible="false">
+							<PlotSurfaceGroup DisplayMode="0" YAxisVisible="false" YScrollBarVisible="false">
+								<PlotSurface Proportion="-1" />
+							</PlotSurfaceGroup>
+						</Navigator>
+					</View>
+					<View Type="Value List" Left="2" Top="772" Width="2518" Height="278" Locked="false" FontSize="12" Guid="{804681CC-EFF8-4E86-919D-FBFFEEA5746E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="-8.85999965667725" DisplayTimeRangeEnd="841.867980957031" Caption="ログ値のリスト" CaptionStrId="0" ColumnWidths="75,75,75,75,75,75,75,75,75,75,75,75,75,75,46,124,121,100,112,80,125,142">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1075" DisplayGroup="0" />
@@ -144,7 +144,7 @@
 							<LogParameterViewInfo DataID="1017" DisplayGroup="0" />
 						</LogParameterViewInfos>
 					</View>
-					<View Type="Time Plot" Left="2" Top="2" Width="2278" Height="768" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="タイムプロット" CaptionStrId="4264">
+					<View Type="Time Plot" Left="0" Top="0" Width="2282" Height="772" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="-8.85999965667725" DisplayTimeRangeEnd="841.867980957031" Caption="タイムプロット" CaptionStrId="4264">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1437" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1000" DisplayGroup="1" />
@@ -158,9 +158,11 @@
 							<LogParameterViewInfo DataID="2936" DisplayGroup="6" />
 							<LogParameterViewInfo DataID="1336" DisplayGroup="7" />
 							<LogParameterViewInfo DataID="1337" DisplayGroup="7" />
+							<LogParameterViewInfo DataID="3038" DisplayGroup="8" />
 						</LogParameterViewInfos>
 						<TimePlot ShowOverlays="true" XAxisVisible="true" MarkersVisible="true" XScrollBarVisible="true" OffsetAxisVisible="true">
 							<PlotSurfaceGroup DisplayMode="0" YAxisVisible="true" YScrollBarVisible="true">
+								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="-1" />
@@ -196,7 +198,7 @@
 							<RuntimeViewDataIDGroup GroupID="0" DataIDs="2936,3042" />
 						</DataIDGroups>
 					</View>
-					<View Type="Mixture Map" Left="1132" Top="2" Width="1388" Height="1318" Locked="false" FontSize="12" Guid="{A767950B-B719-4CFE-95AC-DDADA8006E43}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ミクスチャーマップ (燃料テーブル 1)" CaptionStrId="0" FuelTable="2365" RPMSeriesDataID="1000" LoadSeriesDataID="1091" Load2SeriesDataID="1001" MixtureSeriesDataID="3040" CondFilter1SeriesDataID="1052" CondFilter2SeriesDataID="0" CondFilter3SeriesDataID="0" DeltaFilter1SeriesDataID="0" DeltaFilter2SeriesDataID="0" DeltaFilter3SeriesDataID="0" Cond1Greater="true" Cond2Greater="false" Cond3Greater="false" Delta1Greater="false" Delta2Greater="false" Delta3Greater="false" Cond1Enabled="true" Cond2Enabled="false" Cond3Enabled="false" Delta1Enabled="false" Delta2Enabled="false" Delta3Enabled="false" ZoneAreaEnabled="true" MinSamplesEnabled="true" Cond1Value="65" Cond2Value="0" Cond3Value="0" Delta1Value="0" Delta2Value="0" Delta3Value="0" ActiveZoneArea="80" MinSamples="6" ShowTarget="true" ShowActual="true" ShowSamples="true" ShowError="true" AbsolueError="0.27">
+					<View Type="Mixture Map" Left="1132" Top="2" Width="1388" Height="1318" Locked="false" FontSize="12" Guid="{A767950B-B719-4CFE-95AC-DDADA8006E43}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="-8.85999965667725" DisplayTimeRangeEnd="841.867980957031" Caption="ミクスチャーマップ (燃料テーブル 1)" CaptionStrId="0" FuelTable="2365" RPMSeriesDataID="1000" LoadSeriesDataID="1091" Load2SeriesDataID="1001" MixtureSeriesDataID="3040" CondFilter1SeriesDataID="1052" CondFilter2SeriesDataID="0" CondFilter3SeriesDataID="0" DeltaFilter1SeriesDataID="0" DeltaFilter2SeriesDataID="0" DeltaFilter3SeriesDataID="0" Cond1Greater="true" Cond2Greater="false" Cond3Greater="false" Delta1Greater="false" Delta2Greater="false" Delta3Greater="false" Cond1Enabled="true" Cond2Enabled="false" Cond3Enabled="false" Delta1Enabled="false" Delta2Enabled="false" Delta3Enabled="false" ZoneAreaEnabled="true" MinSamplesEnabled="true" Cond1Value="65" Cond2Value="0" Cond3Value="0" Delta1Value="0" Delta2Value="0" Delta3Value="0" ActiveZoneArea="80" MinSamples="6" ShowTarget="true" ShowActual="true" ShowSamples="true" ShowError="true" AbsolueError="0.27">
 						<LogParameterViewInfos />
 					</View>
 					<View Type="Auto Settings" Left="2" Top="2" Width="1128" Height="878" Locked="false" FontSize="0" Guid="{4AD9F864-5266-42F2-A8CF-2B4B47996975}" BaseCaption="1854" MenuLocked="true" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="false" />
