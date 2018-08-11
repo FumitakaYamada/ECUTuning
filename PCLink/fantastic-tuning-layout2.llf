@@ -90,7 +90,7 @@
 							<RuntimeViewDataIDGroup GroupID="0" DataIDs="3225,3226" />
 						</DataIDGroups>
 					</View>
-					<View Type="Parameter List" Left="2282" Top="2" Width="238" Height="768" Locked="false" FontSize="12" Guid="{6ABFB8DC-7089-4C4E-81E3-1636FB3D227E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="-1343.85400027466" DisplayTimeRangeEnd="372.504997070313" Caption="パラメータリスト" CaptionStrId="0" ColumnWidths="106,75,75">
+					<View Type="Parameter List" Left="2282" Top="2" Width="238" Height="768" Locked="false" FontSize="12" Guid="{6ABFB8DC-7089-4C4E-81E3-1636FB3D227E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="-7.43699979782104" DisplayTimeRangeEnd="455.18701171875" Caption="パラメータリスト" CaptionStrId="0" ColumnWidths="106,75,75">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1001" DisplayGroup="0" />
@@ -138,7 +138,7 @@
 							</ColorRange>
 						</XYPlot>
 					</View>
-					<View Type="Navigator" Left="2" Top="1052" Width="2518" Height="268" Locked="false" FontSize="12" Guid="{A20FDAB3-4072-4D1C-B990-FAF5D598D0D2}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="-1343.85400027466" DisplayTimeRangeEnd="372.504997070313" Caption="ナビゲーター" CaptionStrId="4263">
+					<View Type="Navigator" Left="2" Top="1052" Width="2518" Height="268" Locked="false" FontSize="12" Guid="{A20FDAB3-4072-4D1C-B990-FAF5D598D0D2}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="-7.43699979782104" DisplayTimeRangeEnd="455.18701171875" Caption="ナビゲーター" CaptionStrId="4263">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
 						</LogParameterViewInfos>
@@ -148,7 +148,7 @@
 							</PlotSurfaceGroup>
 						</Navigator>
 					</View>
-					<View Type="Value List" Left="1452" Top="772" Width="1068" Height="278" Locked="false" FontSize="12" Guid="{804681CC-EFF8-4E86-919D-FBFFEEA5746E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="-1343.85400027466" DisplayTimeRangeEnd="372.504997070313" Caption="ログ値のリスト" CaptionStrId="0" ColumnWidths="75,75,75,75,75,75,75,75,75,75">
+					<View Type="Value List" Left="1452" Top="772" Width="1068" Height="278" Locked="false" FontSize="12" Guid="{804681CC-EFF8-4E86-919D-FBFFEEA5746E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="-7.43699979782104" DisplayTimeRangeEnd="455.18701171875" Caption="ログ値のリスト" CaptionStrId="0" ColumnWidths="75,75,75,75,75,75,75,75,75,75">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1075" DisplayGroup="0" />
@@ -161,7 +161,7 @@
 							<LogParameterViewInfo DataID="1064" DisplayGroup="0" />
 						</LogParameterViewInfos>
 					</View>
-					<View Type="Time Plot" Left="0" Top="0" Width="2282" Height="772" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="-1343.85400027466" DisplayTimeRangeEnd="372.504997070313" Caption="タイムプロット" CaptionStrId="4264">
+					<View Type="Time Plot" Left="2" Top="2" Width="2278" Height="768" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="-7.43699979782104" DisplayTimeRangeEnd="455.18701171875" Caption="タイムプロット" CaptionStrId="4264">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1437" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1052" DisplayGroup="0" />
@@ -202,14 +202,14 @@
 								<PlotSurface Proportion="0.639344262295082" />
 								<PlotSurface Proportion="0.918032786885246" />
 								<PlotSurface Proportion="1.44262295081967" />
-								<PlotSurface Proportion="1.36065573770492" />
-								<PlotSurface Proportion="0.590163934426229" />
+								<PlotSurface Proportion="0.409836065573771" />
+								<PlotSurface Proportion="1.52459016393443" />
 								<PlotSurface Proportion="1" />
 								<PlotSurface Proportion="0.409836065573771" />
 								<PlotSurface Proportion="2.04918032786885" />
-								<PlotSurface Proportion="1.49180327868852" />
-								<PlotSurface Proportion="0.770491803278688" />
-								<PlotSurface Proportion="0.39344262295082" />
+								<PlotSurface Proportion="0.934426229508197" />
+								<PlotSurface Proportion="0.622950819672131" />
+								<PlotSurface Proportion="1.22950819672131" />
 							</PlotSurfaceGroup>
 						</TimePlot>
 					</View>
@@ -238,7 +238,7 @@
 						</DataIDGroups>
 					</View>
 					<View Type="Auto Settings" Left="2" Top="2" Width="1128" Height="878" Locked="false" FontSize="0" Guid="{4AD9F864-5266-42F2-A8CF-2B4B47996975}" BaseCaption="1854" MenuLocked="true" SnakeTrail="true" GhostBox="true" ColourGradient="false" GraphDisplay="false" KeyRotation="false" />
-					<View Type="Mixture Map" Left="1132" Top="2" Width="1388" Height="1318" Locked="false" FontSize="12" Guid="{A767950B-B719-4CFE-95AC-DDADA8006E43}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="-1343.85400027466" DisplayTimeRangeEnd="372.504997070313" Caption="ミクスチャーマップ" CaptionStrId="0" FuelTable="2365" RPMSeriesDataID="1000" LoadSeriesDataID="1091" Load2SeriesDataID="1001" MixtureSeriesDataID="3040" CondFilter1SeriesDataID="0" CondFilter2SeriesDataID="0" CondFilter3SeriesDataID="0" DeltaFilter1SeriesDataID="0" DeltaFilter2SeriesDataID="0" DeltaFilter3SeriesDataID="0" Cond1Greater="false" Cond2Greater="false" Cond3Greater="false" Delta1Greater="false" Delta2Greater="false" Delta3Greater="false" Cond1Enabled="false" Cond2Enabled="false" Cond3Enabled="false" Delta1Enabled="false" Delta2Enabled="false" Delta3Enabled="false" ZoneAreaEnabled="true" MinSamplesEnabled="true" Cond1Value="0" Cond2Value="0" Cond3Value="0" Delta1Value="0" Delta2Value="0" Delta3Value="0" ActiveZoneArea="50" MinSamples="10" ShowTarget="true" ShowActual="true" ShowSamples="true" ShowError="true" AbsolueError="0.27">
+					<View Type="Mixture Map" Left="1132" Top="2" Width="1388" Height="1318" Locked="false" FontSize="12" Guid="{A767950B-B719-4CFE-95AC-DDADA8006E43}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="-7.43699979782104" DisplayTimeRangeEnd="455.18701171875" Caption="ミクスチャーマップ" CaptionStrId="0" FuelTable="2365" RPMSeriesDataID="1000" LoadSeriesDataID="1091" Load2SeriesDataID="1001" MixtureSeriesDataID="3040" CondFilter1SeriesDataID="0" CondFilter2SeriesDataID="0" CondFilter3SeriesDataID="0" DeltaFilter1SeriesDataID="0" DeltaFilter2SeriesDataID="0" DeltaFilter3SeriesDataID="0" Cond1Greater="false" Cond2Greater="false" Cond3Greater="false" Delta1Greater="false" Delta2Greater="false" Delta3Greater="false" Cond1Enabled="false" Cond2Enabled="false" Cond3Enabled="false" Delta1Enabled="false" Delta2Enabled="false" Delta3Enabled="false" ZoneAreaEnabled="true" MinSamplesEnabled="true" Cond1Value="0" Cond2Value="0" Cond3Value="0" Delta1Value="0" Delta2Value="0" Delta3Value="0" ActiveZoneArea="50" MinSamples="10" ShowTarget="true" ShowActual="true" ShowSamples="true" ShowError="true" AbsolueError="0.27">
 						<LogParameterViewInfos />
 					</View>
 				</Views>
