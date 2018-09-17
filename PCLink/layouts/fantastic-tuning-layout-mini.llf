@@ -91,42 +91,6 @@
 							<LogParameterViewInfo DataID="1094" DisplayGroup="0" />
 						</LogParameterViewInfos>
 					</View>
-					<View Type="Parameter List" Left="1552" Top="2" Width="328" Height="768" Locked="false" FontSize="12" Guid="{6ABFB8DC-7089-4C4E-81E3-1636FB3D227E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="パラメータリスト" CaptionStrId="0" ColumnWidths="106,75,75">
-						<LogParameterViewInfos>
-							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1001" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1091" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1051" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1004" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1011" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1078" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1007" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2967" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1083" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1064" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1081" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1203" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2587" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3042" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2434" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2435" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2436" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2437" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2452" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2454" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1094" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1098" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1099" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1437" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1017" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1075" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2597" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2596" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1628" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2578" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1007" DisplayGroup="0" />
-						</LogParameterViewInfos>
-					</View>
 					<View Type="Time Plot" Left="0" Top="0" Width="1542" Height="772" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="タイムプロット" CaptionStrId="4264">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1437" DisplayGroup="0" />
@@ -170,7 +134,7 @@
 							<PlotSurfaceGroup DisplayMode="0" YAxisVisible="true" YScrollBarVisible="true">
 								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="1.03571428571429" />
-								<PlotSurface Proportion="0.946428571428571" />
+								<PlotSurface Proportion="0.928571428571429" />
 								<PlotSurface Proportion="1" />
 								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="-1" />
@@ -182,6 +146,42 @@
 								<PlotSurface Proportion="0.75" />
 							</PlotSurfaceGroup>
 						</TimePlot>
+					</View>
+					<View Type="Parameter List" Left="1552" Top="2" Width="328" Height="768" Locked="false" FontSize="12" Guid="{6ABFB8DC-7089-4C4E-81E3-1636FB3D227E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="パラメータリスト" CaptionStrId="0" ColumnWidths="106,75,75">
+						<LogParameterViewInfos>
+							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1001" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1091" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1051" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1004" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1011" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1078" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1007" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2967" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1083" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1064" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1081" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1203" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2587" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="3042" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2434" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2435" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2436" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2437" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2452" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2454" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1094" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1098" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1099" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1437" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1017" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1075" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2597" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2596" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1628" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2578" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1007" DisplayGroup="0" />
+						</LogParameterViewInfos>
 					</View>
 				</Views>
 			</Page>
