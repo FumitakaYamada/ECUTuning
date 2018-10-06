@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <LinkStorage Version="100" Type=".llf">
 	<ViewLayout>
-		<Pages SelectedPage="全般ログ">
+		<Pages SelectedPage="じっくりチューニング">
 			<Page Name="基本設定" NameStrId="123" CurrentTableDataID="3855" CurrentSettingsView="{9BADAAED-68E5-49CE-84F1-539CDE348210}">
 				<Views>
 					<View Type="Help Browser" Left="622" Top="2" Width="348" Height="368" Locked="true" FontSize="0" Guid="{E3FDD8CD-8642-45CA-99A2-D1A0823A41D1}" />
@@ -71,11 +71,11 @@
 					<View Type="Auto Settings" Left="2" Top="2" Width="648" Height="378" Locked="true" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="1854" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
-			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="2366" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
+			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="2366" CurrentSettingsView="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}">
 				<Views>
 					<View Type="Help Browser" Left="1342" Top="2" Width="1178" Height="1328" Locked="false" FontSize="0" Guid="{D1C63C24-1706-47CA-95B3-78B88A95C552}" />
-					<View Type="Auto Settings" Left="2" Top="642" Width="1338" Height="688" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="437" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
-					<View Type="Auto Settings" Left="2" Top="2" Width="1338" Height="638" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="1857" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
+					<View Type="Auto Settings" Left="2" Top="2" Width="1338" Height="638" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="1857" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="true" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
+					<View Type="Auto Settings" Left="0" Top="640" Width="1342" Height="692" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="4699" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
 			<Page Name="燃調ログ" NameStrId="0" CurrentTableDataID="-1" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
@@ -258,7 +258,7 @@
 							<LogParameterViewInfo DataID="1685" DisplayGroup="0" />
 						</LogParameterViewInfos>
 					</View>
-					<View Type="Time Plot" Left="0" Top="0" Width="1992" Height="1332" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="タイムプロット" CaptionStrId="4264">
+					<View Type="Time Plot" Left="2" Top="2" Width="1988" Height="1328" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="タイムプロット" CaptionStrId="4264">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1437" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1000" DisplayGroup="1" />
@@ -288,29 +288,33 @@
 							<LogParameterViewInfo DataID="2454" DisplayGroup="8" />
 							<LogParameterViewInfo DataID="2452" DisplayGroup="8" />
 							<LogParameterViewInfo DataID="2436" DisplayGroup="8" />
-							<LogParameterViewInfo DataID="2587" DisplayGroup="9" />
-							<LogParameterViewInfo DataID="2278" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="2279" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="2280" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="2281" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="3118" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="2980" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="1443" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="1404" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="1331" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="1406" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="1403" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="1450" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="1391" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="1330" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="1396" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="1065" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="1329" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="1395" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="2529" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="2530" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="2531" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="2532" DisplayGroup="10" />
+							<LogParameterViewInfo DataID="2462" DisplayGroup="9" />
+							<LogParameterViewInfo DataID="2463" DisplayGroup="9" />
+							<LogParameterViewInfo DataID="2464" DisplayGroup="10" />
+							<LogParameterViewInfo DataID="2465" DisplayGroup="10" />
+							<LogParameterViewInfo DataID="2587" DisplayGroup="11" />
+							<LogParameterViewInfo DataID="2278" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="2279" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="2280" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="2281" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="3118" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="2980" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="1443" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="1404" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="1331" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="1406" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="1403" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="1450" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="1391" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="1330" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="1396" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="1065" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="1329" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="1395" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="2529" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="2530" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="2531" DisplayGroup="12" />
+							<LogParameterViewInfo DataID="2532" DisplayGroup="12" />
 						</LogParameterViewInfos>
 						<TimePlot ShowOverlays="false" XAxisVisible="true" MarkersVisible="true" XScrollBarVisible="true" OffsetAxisVisible="true">
 							<PlotSurfaceGroup DisplayMode="0" YAxisVisible="true" YScrollBarVisible="true">
@@ -322,9 +326,11 @@
 								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="0.348214285714286" />
-								<PlotSurface Proportion="2.67857142857143" />
-								<PlotSurface Proportion="0.544642857142857" />
-								<PlotSurface Proportion="0.491071428571429" />
+								<PlotSurface Proportion="2.29126213592233" />
+								<PlotSurface Proportion="0.810526315789474" />
+								<PlotSurface Proportion="0.589473684210526" />
+								<PlotSurface Proportion="-1" />
+								<PlotSurface Proportion="-1" />
 							</PlotSurfaceGroup>
 						</TimePlot>
 					</View>
@@ -352,10 +358,10 @@
 							<RuntimeViewDataIDGroup GroupID="0" DataIDs="2936,3042" />
 						</DataIDGroups>
 					</View>
-					<View Type="Mixture Map" Left="1342" Top="2" Width="1178" Height="1318" Locked="false" FontSize="12" Guid="{A767950B-B719-4CFE-95AC-DDADA8006E43}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ミクスチャーマップ (燃料テーブル 1)" CaptionStrId="0" FuelTable="2365" RPMSeriesDataID="1000" LoadSeriesDataID="1091" Load2SeriesDataID="1091" MixtureSeriesDataID="3040" CondFilter1SeriesDataID="1052" CondFilter2SeriesDataID="2392" CondFilter3SeriesDataID="2392" DeltaFilter1SeriesDataID="1078" DeltaFilter2SeriesDataID="0" DeltaFilter3SeriesDataID="0" Cond1Greater="true" Cond2Greater="false" Cond3Greater="true" Delta1Greater="false" Delta2Greater="false" Delta3Greater="false" Cond1Enabled="true" Cond2Enabled="true" Cond3Enabled="true" Delta1Enabled="true" Delta2Enabled="false" Delta3Enabled="false" ZoneAreaEnabled="true" MinSamplesEnabled="false" Cond1Value="80" Cond2Value="1" Cond3Value="-1" Delta1Value="5" Delta2Value="0" Delta3Value="0" ActiveZoneArea="50" MinSamples="30" ShowTarget="true" ShowActual="true" ShowSamples="true" ShowError="true" AbsolueError="0.27">
+					<View Type="Mixture Map" Left="1342" Top="2" Width="1178" Height="1318" Locked="false" FontSize="12" Guid="{A767950B-B719-4CFE-95AC-DDADA8006E43}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ミクスチャーマップ" CaptionStrId="0" FuelTable="2365" RPMSeriesDataID="1000" LoadSeriesDataID="1091" Load2SeriesDataID="1091" MixtureSeriesDataID="3040" CondFilter1SeriesDataID="1052" CondFilter2SeriesDataID="2392" CondFilter3SeriesDataID="2392" DeltaFilter1SeriesDataID="1078" DeltaFilter2SeriesDataID="0" DeltaFilter3SeriesDataID="0" Cond1Greater="true" Cond2Greater="false" Cond3Greater="true" Delta1Greater="false" Delta2Greater="false" Delta3Greater="false" Cond1Enabled="true" Cond2Enabled="true" Cond3Enabled="true" Delta1Enabled="true" Delta2Enabled="false" Delta3Enabled="false" ZoneAreaEnabled="true" MinSamplesEnabled="false" Cond1Value="80" Cond2Value="0.5" Cond3Value="-0.5" Delta1Value="5" Delta2Value="0" Delta3Value="0" ActiveZoneArea="50" MinSamples="30" ShowTarget="true" ShowActual="true" ShowSamples="true" ShowError="true" AbsolueError="0.27">
 						<LogParameterViewInfos />
 					</View>
-					<View Type="Auto Settings" Left="2" Top="2" Width="1338" Height="1158" Locked="false" FontSize="0" Guid="{4AD9F864-5266-42F2-A8CF-2B4B47996975}" BaseCaption="1854" MenuLocked="true" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="true" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
+					<View Type="Auto Settings" Left="2" Top="2" Width="1338" Height="1158" Locked="false" FontSize="0" Guid="{4AD9F864-5266-42F2-A8CF-2B4B47996975}" BaseCaption="1854" MenuLocked="true" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
 		</Pages>
