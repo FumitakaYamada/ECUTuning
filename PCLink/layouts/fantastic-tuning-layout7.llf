@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <LinkStorage Version="100" Type=".llf">
 	<ViewLayout>
-		<Pages SelectedPage="全般ログ">
+		<Pages SelectedPage="ミクスチャーマップ">
 			<Page Name="基本設定" NameStrId="123" CurrentTableDataID="3820" CurrentSettingsView="{9BADAAED-68E5-49CE-84F1-539CDE348210}">
 				<Views>
 					<View Type="Help Browser" Left="622" Top="2" Width="348" Height="368" Locked="true" FontSize="0" Guid="{E3FDD8CD-8642-45CA-99A2-D1A0823A41D1}" />
@@ -28,7 +28,7 @@
 					<View Type="Auto Settings" Left="2" Top="2" Width="618" Height="368" Locked="true" FontSize="0" Guid="{9BADAAED-68E5-49CE-84F1-539CDE348210}" BaseCaption="3059" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
-			<Page Name="チューニング" NameStrId="4269" CurrentTableDataID="2365" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
+			<Page Name="チューニング" NameStrId="4269" CurrentTableDataID="3000" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
 				<Views>
 					<View Type="Runtime Value List" Left="312" Top="382" Width="218" Height="248" Locked="true" FontSize="0" Guid="{F004BCAD-8B8C-4842-95A1-48551E3D4042}" ColumnsCount="1" Caption="エンジン保護" CaptionStrId="163" SortMode="0" BoldFont="true">
 						<DataIDGroups>
@@ -47,7 +47,7 @@
 							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1078" />
 						</DataIDGroups>
 					</View>
-					<View Type="Bar Gauge" Left="2" Top="632" Width="78" Height="248" Locked="false" FontSize="0" Guid="{D591602E-08B7-48FB-B766-F5922C27F1A4}" ManualConfig="false" GaugeMin="0" GaugeMax="1020" YellowLine="900" RedLine="950" LowYellowLine="-1" LowRedLine="-1" SmallTicks="4" LargeTicks="5" DecPlaces="0" GaugeColor="32768" HighQuality="true" ViewCaption="" MultiplierIndex="2">
+					<View Type="Bar Gauge" Left="2" Top="632" Width="78" Height="248" Locked="false" FontSize="0" Guid="{D591602E-08B7-48FB-B766-F5922C27F1A4}" ManualConfig="false" GaugeMin="0" GaugeMax="1020" YellowLine="900" RedLine="950" LowYellowLine="-1" LowRedLine="-1" SmallTicks="4" LargeTicks="5" DecPlaces="0" GaugeColor="12040119" HighQuality="true" ViewCaption="" MultiplierIndex="2">
 						<DataIDGroups>
 							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1094" />
 						</DataIDGroups>
@@ -68,14 +68,14 @@
 						</DataIDGroups>
 					</View>
 					<View Type="Auto Settings" Left="652" Top="2" Width="318" Height="378" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="123" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
-					<View Type="Auto Settings" Left="2" Top="2" Width="648" Height="378" Locked="true" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="452" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
+					<View Type="Auto Settings" Left="2" Top="2" Width="648" Height="378" Locked="true" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="4843" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
-			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="3035" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
+			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="2366" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
 				<Views>
 					<View Type="Help Browser" Left="1342" Top="2" Width="1178" Height="1328" Locked="false" FontSize="0" Guid="{D1C63C24-1706-47CA-95B3-78B88A95C552}" />
 					<View Type="Auto Settings" Left="2" Top="642" Width="1338" Height="688" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="1854" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
-					<View Type="Auto Settings" Left="2" Top="2" Width="1338" Height="638" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="2468" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
+					<View Type="Auto Settings" Left="2" Top="2" Width="1338" Height="638" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="1857" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
 			<Page Name="燃調ログ" NameStrId="0" CurrentTableDataID="-1" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
@@ -230,6 +230,14 @@
 							<LogParameterViewInfo DataID="1154" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1626" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1630" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="3231" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="3232" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1336" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2072" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="1337" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2073" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2666" DisplayGroup="0" />
+							<LogParameterViewInfo DataID="2667" DisplayGroup="0" />
 						</LogParameterViewInfos>
 					</View>
 					<View Type="Value List" Left="1992" Top="792" Width="528" Height="538" Locked="false" FontSize="12" Guid="{804681CC-EFF8-4E86-919D-FBFFEEA5746E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ログ値のリスト" CaptionStrId="0" ColumnWidths="75,75,75,75,75,75,75,75,75,75,75,75,75,75,46,124,121,100,112,80,125,142,75">
@@ -258,18 +266,18 @@
 							<LogParameterViewInfo DataID="1685" DisplayGroup="0" />
 						</LogParameterViewInfos>
 					</View>
-					<View Type="Time Plot" Left="0" Top="0" Width="1992" Height="1332" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="タイムプロット" CaptionStrId="4264">
+					<View Type="Time Plot" Left="2" Top="2" Width="1988" Height="1328" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="タイムプロット" CaptionStrId="4264">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1437" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1000" DisplayGroup="1" />
 							<LogParameterViewInfo DataID="1091" DisplayGroup="2" />
 							<LogParameterViewInfo DataID="1317" DisplayGroup="2" />
-							<LogParameterViewInfo DataID="1094" DisplayGroup="3" />
 							<LogParameterViewInfo DataID="1098" DisplayGroup="3" />
 							<LogParameterViewInfo DataID="1369" DisplayGroup="3" />
 							<LogParameterViewInfo DataID="1370" DisplayGroup="3" />
 							<LogParameterViewInfo DataID="1371" DisplayGroup="3" />
 							<LogParameterViewInfo DataID="1372" DisplayGroup="3" />
+							<LogParameterViewInfo DataID="1094" DisplayGroup="3" />
 							<LogParameterViewInfo DataID="2278" DisplayGroup="4" />
 							<LogParameterViewInfo DataID="2279" DisplayGroup="4" />
 							<LogParameterViewInfo DataID="2280" DisplayGroup="4" />
@@ -288,33 +296,9 @@
 							<LogParameterViewInfo DataID="2454" DisplayGroup="8" />
 							<LogParameterViewInfo DataID="2452" DisplayGroup="8" />
 							<LogParameterViewInfo DataID="2436" DisplayGroup="8" />
-							<LogParameterViewInfo DataID="2462" DisplayGroup="9" />
-							<LogParameterViewInfo DataID="2463" DisplayGroup="9" />
 							<LogParameterViewInfo DataID="2464" DisplayGroup="9" />
 							<LogParameterViewInfo DataID="2465" DisplayGroup="9" />
 							<LogParameterViewInfo DataID="2587" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="2278" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="2279" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="2280" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="2281" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="3118" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="2980" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="1443" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="1404" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="1331" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="1406" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="1403" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="1450" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="1391" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="1330" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="1396" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="1065" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="1329" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="1395" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="2529" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="2530" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="2531" DisplayGroup="11" />
-							<LogParameterViewInfo DataID="2532" DisplayGroup="11" />
 						</LogParameterViewInfos>
 						<TimePlot ShowOverlays="false" XAxisVisible="true" MarkersVisible="true" XScrollBarVisible="true" OffsetAxisVisible="true">
 							<PlotSurfaceGroup DisplayMode="0" YAxisVisible="true" YScrollBarVisible="true">
@@ -322,12 +306,11 @@
 								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="-1" />
-								<PlotSurface Proportion="0.893203883495146" />
-								<PlotSurface Proportion="1.10679611650485" />
 								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="-1" />
-								<PlotSurface Proportion="0.912621359223301" />
-								<PlotSurface Proportion="1.07766990291262" />
+								<PlotSurface Proportion="-1" />
+								<PlotSurface Proportion="-1" />
+								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="-1" />
 							</PlotSurfaceGroup>
@@ -357,9 +340,53 @@
 							<RuntimeViewDataIDGroup GroupID="0" DataIDs="2936,3042" />
 						</DataIDGroups>
 					</View>
-					<View Type="Auto Settings" Left="2" Top="2" Width="1338" Height="1158" Locked="false" FontSize="0" Guid="{4AD9F864-5266-42F2-A8CF-2B4B47996975}" BaseCaption="1854" MenuLocked="true" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="true" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
-					<View Type="Mixture Map" Left="1342" Top="2" Width="1178" Height="1318" Locked="false" FontSize="12" Guid="{A767950B-B719-4CFE-95AC-DDADA8006E43}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ミクスチャーマップ" CaptionStrId="0" FuelTable="2365" RPMSeriesDataID="1000" LoadSeriesDataID="1091" Load2SeriesDataID="1091" MixtureSeriesDataID="3040" CondFilter1SeriesDataID="1004" CondFilter2SeriesDataID="2392" CondFilter3SeriesDataID="2392" DeltaFilter1SeriesDataID="1078" DeltaFilter2SeriesDataID="0" DeltaFilter3SeriesDataID="0" Cond1Greater="true" Cond2Greater="false" Cond3Greater="true" Delta1Greater="false" Delta2Greater="false" Delta3Greater="false" Cond1Enabled="true" Cond2Enabled="true" Cond3Enabled="true" Delta1Enabled="true" Delta2Enabled="false" Delta3Enabled="false" ZoneAreaEnabled="false" MinSamplesEnabled="true" Cond1Value="70" Cond2Value="0.5" Cond3Value="-0.5" Delta1Value="5" Delta2Value="0" Delta3Value="0" ActiveZoneArea="80" MinSamples="10" ShowTarget="true" ShowActual="true" ShowSamples="true" ShowError="true" AbsolueError="0.27">
+					<View Type="Mixture Map" Left="1342" Top="2" Width="1178" Height="1318" Locked="false" FontSize="12" Guid="{A767950B-B719-4CFE-95AC-DDADA8006E43}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ミクスチャーマップ" CaptionStrId="0" FuelTable="2365" RPMSeriesDataID="1000" LoadSeriesDataID="1091" Load2SeriesDataID="1091" MixtureSeriesDataID="3040" CondFilter1SeriesDataID="1004" CondFilter2SeriesDataID="3038" CondFilter3SeriesDataID="2392" DeltaFilter1SeriesDataID="1078" DeltaFilter2SeriesDataID="0" DeltaFilter3SeriesDataID="0" Cond1Greater="true" Cond2Greater="false" Cond3Greater="true" Delta1Greater="false" Delta2Greater="false" Delta3Greater="false" Cond1Enabled="true" Cond2Enabled="true" Cond3Enabled="false" Delta1Enabled="true" Delta2Enabled="false" Delta3Enabled="false" ZoneAreaEnabled="true" MinSamplesEnabled="true" Cond1Value="80" Cond2Value="0.1" Cond3Value="-0.5" Delta1Value="5" Delta2Value="0" Delta3Value="0" ActiveZoneArea="80" MinSamples="30" ShowTarget="true" ShowActual="true" ShowSamples="true" ShowError="true" AbsolueError="0.27">
 						<LogParameterViewInfos />
+					</View>
+					<View Type="Auto Settings" Left="0" Top="0" Width="1342" Height="1162" Locked="false" FontSize="0" Guid="{4AD9F864-5266-42F2-A8CF-2B4B47996975}" BaseCaption="1854" MenuLocked="true" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="true" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
+				</Views>
+			</Page>
+			<Page Name="ページ 1" NameStrId="0" CurrentTableDataID="-1" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
+				<Views>
+					<View Type="Histogram" Left="782" Top="292" Width="908" Height="708" Locked="false" FontSize="0" Guid="{43A748EC-3718-4F16-9959-72151D1337BD}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ヒストグラム" CaptionStrId="0">
+						<LogParameterViewInfos>
+							<LogParameterViewInfo DataID="1001" DisplayGroup="0" />
+						</LogParameterViewInfos>
+						<Histogram ShowOverlays="true" XAxisParameterDataID="0" ColorRangeParameterDataID="3040" UseColorRange="true" ManualRange="false" ManualMin="100" ManualMax="300" ShowColorLegend="true" DisplayAsPercent="false" BinCount="10">
+							<PlotSurfaceGroup DisplayMode="1" ColumnCount="-1" />
+							<ColorRange Name="Unnamed">
+								<ColorRanges>
+									<ColorSpan LowerBound="0.8" UpperBound="0.85" Color="65280" />
+									<ColorSpan LowerBound="0.85" UpperBound="0.9" Color="65343" />
+									<ColorSpan LowerBound="0.9" UpperBound="0.95" Color="65407" />
+									<ColorSpan LowerBound="0.95" UpperBound="1" Color="65471" />
+									<ColorSpan LowerBound="1" UpperBound="1.05" Color="65535" />
+									<ColorSpan LowerBound="1.05" UpperBound="1.1" Color="43775" />
+									<ColorSpan LowerBound="1.1" UpperBound="1.15" Color="22015" />
+									<ColorSpan LowerBound="1.15" UpperBound="1.2" Color="255" />
+								</ColorRanges>
+							</ColorRange>
+						</Histogram>
+					</View>
+					<View Type="Histogram" Left="662" Top="452" Width="1368" Height="778" Locked="false" FontSize="0" Guid="{BCFF933F-603B-4DA7-9FB2-1D197D807C38}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ヒストグラム" CaptionStrId="0">
+						<LogParameterViewInfos>
+							<LogParameterViewInfo DataID="1001" DisplayGroup="0" />
+						</LogParameterViewInfos>
+						<Histogram ShowOverlays="true" XAxisParameterDataID="0" ColorRangeParameterDataID="1094" UseColorRange="true" ManualRange="false" ManualMin="0" ManualMax="100" ShowColorLegend="true" DisplayAsPercent="true" BinCount="10">
+							<PlotSurfaceGroup DisplayMode="0" ColumnCount="-1" />
+							<ColorRange Name="Unnamed">
+								<ColorRanges>
+									<ColorSpan LowerBound="0" UpperBound="15" Color="65280" />
+									<ColorSpan LowerBound="15" UpperBound="30" Color="65343" />
+									<ColorSpan LowerBound="30" UpperBound="45" Color="65407" />
+									<ColorSpan LowerBound="45" UpperBound="60" Color="65471" />
+									<ColorSpan LowerBound="60" UpperBound="75" Color="65535" />
+									<ColorSpan LowerBound="75" UpperBound="90" Color="43775" />
+									<ColorSpan LowerBound="90" UpperBound="105" Color="22015" />
+									<ColorSpan LowerBound="105" UpperBound="120" Color="255" />
+								</ColorRanges>
+							</ColorRange>
+						</Histogram>
 					</View>
 				</Views>
 			</Page>
