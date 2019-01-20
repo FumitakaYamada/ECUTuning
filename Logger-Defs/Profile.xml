@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE profile SYSTEM "profile.dtd">
+
+<profile protocol="OBD">
+    <parameters>
+        <parameter id="PID3" units="status"/>
+        <parameter id="P78" livedata="selected" units="bar"/>
+        <parameter id="PID13" units="bit flags"/>
+        <parameter id="PID12" units="status"/>
+        <parameter id="PID15" livedata="selected" units="VDC"/>
+        <parameter id="PID14" livedata="selected" units="VDC"/>
+        <parameter id="PID1A" units="VDC"/>
+        <parameter id="PID1C" units="index"/>
+        <parameter id="PID1B" units="VDC"/>
+        <parameter id="PID1E" units="On/Off"/>
+        <parameter id="PID1D" units="bit flags"/>
+        <parameter id="PID17" units="VDC"/>
+        <parameter id="PID16" units="VDC"/>
+        <parameter id="PID19" units="VDC"/>
+        <parameter id="PID18" units="VDC"/>
+        <parameter id="PID22" units="psi"/>
+        <parameter id="PID21" units="miles"/>
+        <parameter id="PID24" livedata="selected" units="lambda"/>
+        <parameter id="PID23" units="psi"/>
+        <parameter id="PID26" units="lambda"/>
+        <parameter id="PID25" units="lambda"/>
+        <parameter id="PID1F" livedata="selected" units="seconds"/>
+        <parameter id="P10" livedata="selected" units="degrees"/>
+        <parameter id="P12" livedata="selected" units="g/s"/>
+        <parameter id="P11" livedata="selected" units="C"/>
+        <parameter id="PID1a" units="On/Off"/>
+        <parameter id="PID2B" units="lambda"/>
+        <parameter id="PID2A" units="lambda"/>
+        <parameter id="P13" livedata="selected" units="%"/>
+        <parameter id="PID2D" units="%"/>
+        <parameter id="PID1b" units="count"/>
+        <parameter id="PID2C" units="%"/>
+        <parameter id="P17" units="VDC"/>
+        <parameter id="PID2E" units="%"/>
+        <parameter id="PID28" units="lambda"/>
+        <parameter id="PID27" units="lambda"/>
+        <parameter id="PID29" units="lambda"/>
+        <parameter id="PID31" units="miles"/>
+        <parameter id="PID30" units="count"/>
+        <parameter id="PID32" units="psi"/>
+        <parameter id="PID35" units="lambda"/>
+        <parameter id="PID34" units="lambda"/>
+        <parameter id="PID37" units="lambda"/>
+        <parameter id="PID36" units="lambda"/>
+        <parameter id="E3" units="status"/>
+        <parameter id="PID65b" units="On/Off"/>
+        <parameter id="PID3A" units="lambda"/>
+        <parameter id="PID65c" units="On/Off"/>
+        <parameter id="PID3C" livedata="selected" units="‹C"/>
+        <parameter id="P24" units="psi"/>
+        <parameter id="PID3B" units="lambda"/>
+        <parameter id="PID3E" units="‹F"/>
+        <parameter id="PID3D" units="‹F"/>
+        <parameter id="PID3F" units="‹F"/>
+        <parameter id="PID39" units="lambda"/>
+        <parameter id="PID38" units="lambda"/>
+        <parameter id="PID65a" units="On/Off"/>
+        <parameter id="PID44" units="lambda"/>
+        <parameter id="PID43" livedata="selected" units="%"/>
+        <parameter id="PID46" units="‹F"/>
+        <parameter id="PID45" units="%"/>
+        <parameter id="PID48" units="%"/>
+        <parameter id="PID47" units="%"/>
+        <parameter id="P30" units="%"/>
+        <parameter id="PID4B" units="%"/>
+        <parameter id="PID4A" units="%"/>
+        <parameter id="PID65D" units="On/Off"/>
+        <parameter id="PID4D" units="minutes"/>
+        <parameter id="P35" units="%"/>
+        <parameter id="PID4C" units="%"/>
+        <parameter id="PID4E" units="minutes"/>
+        <parameter id="PID49" units="%"/>
+        <parameter id="PID53" units="psi"/>
+        <parameter id="PID52" units="%"/>
+        <parameter id="PID55" units="%"/>
+        <parameter id="PID54" units="psi"/>
+        <parameter id="PID57" units="%"/>
+        <parameter id="PID56" units="%"/>
+        <parameter id="PID59" units="psi"/>
+        <parameter id="PID58" units="%"/>
+        <parameter id="PID51" units="index"/>
+        <parameter id="PID5C" units="‹F"/>
+        <parameter id="PID5B" units="%"/>
+        <parameter id="PID5E" livedata="selected" units="l/h"/>
+        <parameter id="PID5D" units="‹"/>
+        <parameter id="PID5F" units="index"/>
+        <parameter id="P1" livedata="selected" units="%"/>
+        <parameter id="PID63" units="ft-lbs"/>
+        <parameter id="P2" livedata="selected" units="C"/>
+        <parameter id="P3" units="%"/>
+        <parameter id="P4" units="%"/>
+        <parameter id="P5" units="%"/>
+        <parameter id="P6" units="%"/>
+        <parameter id="P7" livedata="selected" units="bar"/>
+        <parameter id="P8" livedata="selected" units="RPM"/>
+        <parameter id="P9" livedata="selected" units="km/h"/>
+        <parameter id="PID62" units="%"/>
+        <parameter id="PID61" units="%"/>
+    </parameters>
+    <externals>
+        <external id="X_ECOTRONS_ALM_VDC_1" units="VDC"/>
+        <external id="X_Tech_Edge_Thermistor_or_Vss" units="raw"/>
+        <external id="X_PLX_O2_-_Narrowband" units="%"/>
+        <external id="X_Zeitronix_ZT-2_Engine_Speed" units="rpm"/>
+        <external id="X_APSX_Wideband_AFR" units="AFR Gasoline"/>
+        <external id="X_PLX_Engine_Timing" units="deg"/>
+        <external id="X_ECOTRONS_ALM_VDC_2" units="VDC"/>
+        <external id="X_PLX_Temperature_-_Exhaust_Gas" units="C"/>
+        <external id="X_Tech_Edge_Thermocouple_1" units="raw"/>
+        <external id="X_Tech_Edge_Thermocouple_2" units="raw"/>
+        <external id="X_Tech_Edge_Thermocouple_3" units="raw"/>
+        <external id="X_Innovate_Wideband_AFR" units="AFR Gasoline"/>
+        <external id="X_PLX_Engine_Speed" units="rpm"/>
+        <external id="X_MRF_Stealth_Gauge_Fuel_Press" units="psi"/>
+        <external id="X_TXS_UTEC_MODIGN" units="ign"/>
+        <external id="X_ECOTRONS_ALM_RPM" units="rpm"/>
+        <external id="X_PLX_Duty_Cycle" units="+%"/>
+        <external id="X_AEM_X-Wifi_EGT_1" units="F"/>
+        <external id="X_AEM_X-Wifi_EGT_2" units="F"/>
+        <external id="X_ECOTRONS_ALM_O2_Concentration_1" units="%"/>
+        <external id="X_ECOTRONS_ALM_O2_Concentration_2" units="%"/>
+        <external id="X_ECOTRONS_ALM_lambda_2" units="AFR Gasoline"/>
+        <external id="X_ECOTRONS_ALM_lambda_1" units="AFR Gasoline"/>
+        <external id="X_Zeitronix_ZT-2_MAP" units="psi"/>
+        <external id="X_Zeitronix_ZT-2_Wideband_O2" units="AFR Gasoline"/>
+        <external id="X_TXS_UTEC_KNOCK" units="knock"/>
+        <external id="X_TXS_Tuner_Pro_Knock" units="knock"/>
+        <external id="X_MRF_Stealth_Gauge_MAP" units="psi"/>
+        <external id="X_PLX_Fuel_Trim_-_Long_Term" units="%"/>
+        <external id="X_AEM_UEGO_Wideband_[9600_baud]" units="AFR Gasoline"/>
+        <external id="X_PLX_Temperature_-_Oil/H20" units="C"/>
+        <external id="X_PLX_Manifold_Boost" units="psi"/>
+        <external id="X_TXS_UTEC_MODMAFV" units="mafv"/>
+        <external id="X_Zeitronix_ZT-2_Throttle_Poistion" units="%"/>
+        <external id="X_PLX_Manifold_Absolute_Pressure" units="psi"/>
+        <external id="X_Tech_Edge_User_1" units="VDC"/>
+        <external id="X_PLX_Manifold_Vaccum" units="in/Hg"/>
+        <external id="X_TXS_UTEC_MAFV" units="mafv"/>
+        <external id="X_Tech_Edge_User_2" units="VDC"/>
+        <external id="X_Tech_Edge_User_3" units="VDC"/>
+        <external id="X_TXS_Tuner_Lite_AFR" units="AFR Gasoline"/>
+        <external id="X_PLX_Knock" units="vdc"/>
+        <external id="X_Tech_Edge_Engine_Speed_(4-cyl)" units="RPM"/>
+        <external id="X_PLX_Fuel_Level" units="%"/>
+        <external id="X_PLX_Vehicle_Speed" units="mph"/>
+        <external id="X_PLX_Battery_Voltage" units="vdc"/>
+        <external id="X_14Point7_NAW_7S_UEGO" units="Lambda"/>
+        <external id="X_Tech_Edge_Wideband" units="Lambda"/>
+        <external id="X_ECOTRONS_ALM_Temperature_1" units="C"/>
+        <external id="X_ECOTRONS_ALM_Temperature_2" units="C"/>
+        <external id="X_TXS_UTEC_MAPVE/MODFUEL" units="modfuel %"/>
+        <external id="X_PLX_O2_-_Wideband" units="AFR Gasoline"/>
+        <external id="X_PLX_Engine_Load" units="%"/>
+        <external id="X_PLX_Wideband_Reaction_Time" units="msec"/>
+        <external id="X_MRF_Stealth_Gauge_Wideband" units="AFR Gasoline"/>
+        <external id="X_TXS_UTEC_ECUIGN" units="ign"/>
+        <external id="X_MRF_Stealth_Gauge_Oil_Temp" units="F"/>
+        <external id="X_TXS_UTEC_LOAD" units="load"/>
+        <external id="X_TXS_UTEC_IDC" units="%"/>
+        <external id="X_TXS_Tuner_Pro_AFR" units="Lambda"/>
+        <external id="X_TXS_Tuner_Pro_RPM" units="rpm"/>
+        <external id="X_TXS_UTEC_AFR" units="AFR Gasoline"/>
+        <external id="X_PLX_Wideband_Health" units="%"/>
+        <external id="X_TXS_UTEC_RPM" units="rpm"/>
+        <external id="X_PLX_Throttle_Position" units="%"/>
+        <external id="X_PLX_Temperature_-_Intake_Air" units="C"/>
+        <external id="X_PLX_Fuel/0il_Pressure" units="psi"/>
+        <external id="X_MRF_Stealth_Gauge_Manifold_Temp" units="F"/>
+        <external id="X_PLX_Mass_Air_Flow" units="g/sec"/>
+        <external id="X_Zeitronix_ZT-2_User_Input" units="VDC"/>
+        <external id="X_TXS_UTEC_TPS" units="tps"/>
+        <external id="X_AEM_UEGO_Wideband_[19200_baud]" units="Lambda"/>
+        <external id="X_Zeitronix_ZT-2_EGT" units="C"/>
+        <external id="X_MRF_Stealth_Gauge_EGT" units="F"/>
+        <external id="X_PLX_Fuel_Trim_-_Short_Term" units="%"/>
+        <external id="X_AEM_X-Wifi_Wideband" units="AFR Gasoline"/>
+        <external id="X_MRF_Stealth_Gauge_Oil_Press" units="psi"/>
+        <external id="X_TXS_UTEC_BOOST" units="psi"/>
+    </externals>
+</profile>
