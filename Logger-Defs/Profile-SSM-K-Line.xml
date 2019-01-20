@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE profile SYSTEM "profile.dtd">
+
+<profile protocol="SSM">
+    <parameters>
+        <parameter id="P148" units="degrees"/>
+        <parameter id="P147" units="km/h"/>
+        <parameter id="P149" units="A"/>
+        <parameter id="P144" units="km/h"/>
+        <parameter id="P143" units="V"/>
+        <parameter id="P146" units="km/h"/>
+        <parameter id="P145" livedata="selected" units="km/h"/>
+        <parameter id="P151" units="misfire count"/>
+        <parameter id="P150" units="kPa"/>
+        <parameter id="P153" units="degrees"/>
+        <parameter id="P152" units="misfire count"/>
+        <parameter id="P137" units="kPa"/>
+        <parameter id="P136" units="kPa"/>
+        <parameter id="P139" units="kPa"/>
+        <parameter id="P138" units="kPa"/>
+        <parameter id="P133" units="A"/>
+        <parameter id="P132" units="A"/>
+        <parameter id="P135" units="V"/>
+        <parameter id="P134" units="A"/>
+        <parameter id="P140" units="kPa"/>
+        <parameter id="P142" units="kPa"/>
+        <parameter id="P141" units="kPa"/>
+        <parameter id="P169" units="A"/>
+        <parameter id="P166" units="C"/>
+        <parameter id="P165" units="MPa"/>
+        <parameter id="P168" units="%"/>
+        <parameter id="P167" units="rpm"/>
+        <parameter id="P173" units="raw ecu value"/>
+        <parameter id="P172" units="m/s?"/>
+        <parameter id="P175" units="mA"/>
+        <parameter id="P174" livedata="selected" units="raw ecu value"/>
+        <parameter id="P171" units="degrees/s"/>
+        <parameter id="P170" units="mA"/>
+        <parameter id="P159" units="mg/cyl"/>
+        <parameter id="P158" units="kPa"/>
+        <parameter id="P155" units="‹CA"/>
+        <parameter id="P154" units="kPa"/>
+        <parameter id="P157" units="count"/>
+        <parameter id="P156" units="mm?/st"/>
+        <parameter id="P10" livedata="selected" units="degrees"/>
+        <parameter id="P12" livedata="selected" units="g/s"/>
+        <parameter id="P11" livedata="selected" units="C"/>
+        <parameter id="P14" livedata="selected" units="V"/>
+        <parameter id="P13" livedata="selected" units="%"/>
+        <parameter id="P16" units="V"/>
+        <parameter id="P15" livedata="selected" units="V"/>
+        <parameter id="P18" units="V"/>
+        <parameter id="P17" units="V"/>
+        <parameter id="P162" units="degrees"/>
+        <parameter id="P161" units="degrees"/>
+        <parameter id="P19" units="V"/>
+        <parameter id="P164" units="MPa"/>
+        <parameter id="P163" units="%"/>
+        <parameter id="P160" livedata="selected" units="mg/cyl"/>
+        <parameter id="P188" units="C"/>
+        <parameter id="P187" units="kPa"/>
+        <parameter id="P189" units="C"/>
+        <parameter id="P21" livedata="selected" units="ms"/>
+        <parameter id="P20" units="V"/>
+        <parameter id="P23" units="degrees"/>
+        <parameter id="P22" units="ms"/>
+        <parameter id="P25" units="kPa"/>
+        <parameter id="P24" units="psi"/>
+        <parameter id="P27" units="kPa"/>
+        <parameter id="P26" units="kPa"/>
+        <parameter id="P29" units="degrees"/>
+        <parameter id="P28" units="V"/>
+        <parameter id="P195" units="km/h"/>
+        <parameter id="P194" units="%"/>
+        <parameter id="P197" units="%"/>
+        <parameter id="P196" units="km/h"/>
+        <parameter id="P191" units="C"/>
+        <parameter id="P190" units="C"/>
+        <parameter id="P193" units="%"/>
+        <parameter id="P192" units="%"/>
+        <parameter id="P177" units="km"/>
+        <parameter id="P176" units="km"/>
+        <parameter id="P179" units="ƒÊs"/>
+        <parameter id="P178" units="steps"/>
+        <parameter id="P30" livedata="selected" units="%"/>
+        <parameter id="P32" units="A"/>
+        <parameter id="P31" units="C"/>
+        <parameter id="P34" units="A"/>
+        <parameter id="P33" units="A"/>
+        <parameter id="P36" units="%"/>
+        <parameter id="P35" units="V"/>
+        <parameter id="P38" units="%"/>
+        <parameter id="P37" units="%"/>
+        <parameter id="P39" units="V"/>
+        <parameter id="P184" units="C"/>
+        <parameter id="P183" units="A"/>
+        <parameter id="P186" units="%"/>
+        <parameter id="P185" units="index"/>
+        <parameter id="P180" units="ƒÊs"/>
+        <parameter id="P182" units="ƒÊs"/>
+        <parameter id="P181" units="ƒÊs"/>
+        <parameter id="P41" units="%"/>
+        <parameter id="P40" units="V"/>
+        <parameter id="P43" units="%"/>
+        <parameter id="P42" units="%"/>
+        <parameter id="P45" units="steps"/>
+        <parameter id="P44" units="steps"/>
+        <parameter id="P47" units="%"/>
+        <parameter id="P46" units="%"/>
+        <parameter id="P49" livedata="selected" units="degrees"/>
+        <parameter id="P48" livedata="selected" units="degrees"/>
+        <parameter id="P199" units="Time"/>
+        <parameter id="P198" units="Time"/>
+        <parameter id="P50" units="%"/>
+        <parameter id="P52" units="mA"/>
+        <parameter id="P51" units="%"/>
+        <parameter id="P54" units="mA"/>
+        <parameter id="P53" units="mA"/>
+        <parameter id="P56" units="ohm"/>
+        <parameter id="P55" units="mA"/>
+        <parameter id="P58" units="Lambda"/>
+        <parameter id="P57" units="ohm"/>
+        <parameter id="P59" units="Lambda"/>
+        <parameter id="P61" units="A"/>
+        <parameter id="P60" units="gear"/>
+        <parameter id="P63" units="misfire count"/>
+        <parameter id="P62" units="A"/>
+        <parameter id="P65" units="%"/>
+        <parameter id="P64" units="misfire count"/>
+        <parameter id="P67" units="V"/>
+        <parameter id="P66" units="%"/>
+        <parameter id="P69" units="misfire count"/>
+        <parameter id="P68" units="V"/>
+        <parameter id="P70" units="misfire count"/>
+        <parameter id="P72" units="V"/>
+        <parameter id="P71" units="%"/>
+        <parameter id="P74" units="V"/>
+        <parameter id="P73" units="V"/>
+        <parameter id="P76" units="V"/>
+        <parameter id="P75" units="V"/>
+        <parameter id="P78" livedata="selected" units="bar"/>
+        <parameter id="P77" units="kPa"/>
+        <parameter id="P79" units="C"/>
+        <parameter id="P203" units="l/100km"/>
+        <parameter id="P202" units="bar"/>
+        <parameter id="P205" units="km"/>
+        <parameter id="P204" units="MPa"/>
+        <parameter id="P201" units="%"/>
+        <parameter id="P200" units="g/rev"/>
+        <parameter id="P81" units="steps"/>
+        <parameter id="P80" units="ms"/>
+        <parameter id="P83" livedata="selected" units="degrees"/>
+        <parameter id="P82" units="km/h"/>
+        <parameter id="P207" units="Times"/>
+        <parameter id="P85" units="%"/>
+        <parameter id="P84" livedata="selected" units="degrees"/>
+        <parameter id="P206" units="km"/>
+        <parameter id="P87" units="mA"/>
+        <parameter id="P209" units="ƒÊs"/>
+        <parameter id="P86" units="%"/>
+        <parameter id="P208" units="ƒÊs"/>
+        <parameter id="P89" units="%"/>
+        <parameter id="P88" units="mA"/>
+        <parameter id="P90" units="multiplier"/>
+        <parameter id="P92" units="%"/>
+        <parameter id="P91" units="degrees"/>
+        <parameter id="P94" units="index"/>
+        <parameter id="P93" units="km/h"/>
+        <parameter id="P96" units="%"/>
+        <parameter id="P95" units="%"/>
+        <parameter id="P98" units="V"/>
+        <parameter id="P97" units="%"/>
+        <parameter id="P99" units="rpm"/>
+        <parameter id="P104" units="C"/>
+        <parameter id="P225" units="ƒÊs"/>
+        <parameter id="P103" units="V"/>
+        <parameter id="P224" units="ƒÊs"/>
+        <parameter id="P106" units="%"/>
+        <parameter id="P227" units="ƒÊs"/>
+        <parameter id="P105" units="%"/>
+        <parameter id="P226" units="ƒÊs"/>
+        <parameter id="P100" units="%"/>
+        <parameter id="P221" units="ƒÊs"/>
+        <parameter id="P220" units="ƒÊs"/>
+        <parameter id="P102" units="V"/>
+        <parameter id="P223" units="ƒÊs"/>
+        <parameter id="P222" units="ƒÊs"/>
+        <parameter id="P101" units="km/h"/>
+        <parameter id="P108" units="C"/>
+        <parameter id="P229" units="ƒÊs"/>
+        <parameter id="P228" units="mA"/>
+        <parameter id="P107" units="%"/>
+        <parameter id="P109" units="V"/>
+        <parameter id="P230" units="mg/cyl"/>
+        <parameter id="P214" units="ƒÊs"/>
+        <parameter id="P213" units="ƒÊs"/>
+        <parameter id="P216" units="ƒÊs"/>
+        <parameter id="P215" units="ƒÊs"/>
+        <parameter id="P210" units="ƒÊs"/>
+        <parameter id="P212" units="ƒÊs"/>
+        <parameter id="P211" units="ƒÊs"/>
+        <parameter id="P218" units="ƒÊs"/>
+        <parameter id="P217" units="ƒÊs"/>
+        <parameter id="P219" units="ƒÊs"/>
+        <parameter id="P126" units="mA"/>
+        <parameter id="P125" units="mA"/>
+        <parameter id="P128" units="A"/>
+        <parameter id="P127" units="raw ecu value"/>
+        <parameter id="P122" units="C"/>
+        <parameter id="P243" units="%"/>
+        <parameter id="P121" units="MPa"/>
+        <parameter id="P242" units="%"/>
+        <parameter id="P124" units="%"/>
+        <parameter id="P245" units="g/s"/>
+        <parameter id="P123" units="%"/>
+        <parameter id="P244" units="kPa"/>
+        <parameter id="P129" units="A"/>
+        <parameter id="P131" units="A"/>
+        <parameter id="P130" units="A"/>
+        <parameter id="P236" units="g"/>
+        <parameter id="P115" units="V"/>
+        <parameter id="P1" livedata="selected" units="%"/>
+        <parameter id="P235" units="‹CA"/>
+        <parameter id="P114" livedata="selected" units="index"/>
+        <parameter id="P117" units="%"/>
+        <parameter id="P2" livedata="selected" units="C"/>
+        <parameter id="P238" units="Nm"/>
+        <parameter id="P3" units="%"/>
+        <parameter id="P237" units="coefficient"/>
+        <parameter id="P116" units="C"/>
+        <parameter id="P4" units="%"/>
+        <parameter id="P111" units="rpm"/>
+        <parameter id="P232" units="Lambda"/>
+        <parameter id="P5" units="%"/>
+        <parameter id="P110" units="rpm"/>
+        <parameter id="P231" units="‹CA"/>
+        <parameter id="P6" units="%"/>
+        <parameter id="P113" units="A"/>
+        <parameter id="P234" units="mm?/st"/>
+        <parameter id="P112" units="A"/>
+        <parameter id="P7" livedata="selected" units="bar"/>
+        <parameter id="P233" units="ƒÊs"/>
+        <parameter id="P8" livedata="selected" units="rpm"/>
+        <parameter id="P9" livedata="selected" units="km/h"/>
+        <parameter id="P119" units="ohm"/>
+        <parameter id="P118" units="%"/>
+        <parameter id="P239" units="degrees"/>
+        <parameter id="P241" units="rpm"/>
+        <parameter id="P120" units="km"/>
+        <parameter id="P240" units="rpm"/>
+    </parameters>
+    <switches>
+        <switch id="S139"/>
+        <switch id="S137"/>
+        <switch id="S138"/>
+        <switch id="S135"/>
+        <switch id="S136"/>
+        <switch id="S40"/>
+        <switch id="S42"/>
+        <switch id="S41"/>
+        <switch id="S44"/>
+        <switch id="S43"/>
+        <switch id="S46"/>
+        <switch id="S45"/>
+        <switch id="S48"/>
+        <switch id="S47"/>
+        <switch id="S144"/>
+        <switch id="S145"/>
+        <switch id="S49"/>
+        <switch id="S142"/>
+        <switch id="S143"/>
+        <switch id="S140"/>
+        <switch id="S141"/>
+        <switch id="S128"/>
+        <switch id="S129"/>
+        <switch id="S126"/>
+        <switch id="S127"/>
+        <switch id="S124"/>
+        <switch id="S125"/>
+        <switch id="S51"/>
+        <switch id="S50"/>
+        <switch id="S53"/>
+        <switch id="S52"/>
+        <switch id="S55"/>
+        <switch id="S54"/>
+        <switch id="S57"/>
+        <switch id="S56"/>
+        <switch id="S59"/>
+        <switch id="S58"/>
+        <switch id="S133"/>
+        <switch id="S134"/>
+        <switch id="S131"/>
+        <switch id="S132"/>
+        <switch id="S130"/>
+        <switch id="S1"/>
+        <switch id="S2"/>
+        <switch id="S3"/>
+        <switch id="S4"/>
+        <switch id="S5"/>
+        <switch id="S6"/>
+        <switch id="S159"/>
+        <switch id="S7"/>
+        <switch id="S8"/>
+        <switch id="S9"/>
+        <switch id="S157"/>
+        <switch id="S158"/>
+        <switch id="S60"/>
+        <switch id="S62"/>
+        <switch id="S61"/>
+        <switch id="S64"/>
+        <switch id="S63"/>
+        <switch id="S66"/>
+        <switch id="S65"/>
+        <switch id="S68"/>
+        <switch id="S67"/>
+        <switch id="S69"/>
+        <switch id="S166"/>
+        <switch id="S167"/>
+        <switch id="S164"/>
+        <switch id="S165"/>
+        <switch id="S162"/>
+        <switch id="S163"/>
+        <switch id="S160"/>
+        <switch id="S161"/>
+        <switch id="S148"/>
+        <switch id="S149"/>
+        <switch id="S146"/>
+        <switch id="S147"/>
+        <switch id="S71"/>
+        <switch id="S70"/>
+        <switch id="S73"/>
+        <switch id="S72"/>
+        <switch id="S75"/>
+        <switch id="S74"/>
+        <switch id="S77"/>
+        <switch id="S76"/>
+        <switch id="S79"/>
+        <switch id="S78"/>
+        <switch id="S155"/>
+        <switch id="S156"/>
+        <switch id="S153"/>
+        <switch id="S154"/>
+        <switch id="S151"/>
+        <switch id="S152"/>
+        <switch id="S150"/>
+        <switch id="S80"/>
+        <switch id="S82"/>
+        <switch id="S81"/>
+        <switch id="S84"/>
+        <switch id="S83"/>
+        <switch id="S86"/>
+        <switch id="S85"/>
+        <switch id="S88"/>
+        <switch id="S87"/>
+        <switch id="S89"/>
+        <switch id="S100"/>
+        <switch id="S101"/>
+        <switch id="S168"/>
+        <switch id="S169"/>
+        <switch id="S91"/>
+        <switch id="S90"/>
+        <switch id="S93"/>
+        <switch id="S92"/>
+        <switch id="S95"/>
+        <switch id="S94"/>
+        <switch id="S97"/>
+        <switch id="S96"/>
+        <switch id="S170"/>
+        <switch id="S99"/>
+        <switch id="S11"/>
+        <switch id="S10"/>
+        <switch id="S98"/>
+        <switch id="S13"/>
+        <switch id="S12"/>
+        <switch id="S15"/>
+        <switch id="S14"/>
+        <switch id="S17"/>
+        <switch id="S16"/>
+        <switch id="S19"/>
+        <switch id="S18"/>
+        <switch id="S171"/>
+        <switch id="S172"/>
+        <switch id="S119"/>
+        <switch id="S117"/>
+        <switch id="S118"/>
+        <switch id="S115"/>
+        <switch id="S116"/>
+        <switch id="S113"/>
+        <switch id="S114"/>
+        <switch id="S20"/>
+        <switch id="S22"/>
+        <switch id="S21"/>
+        <switch id="S24"/>
+        <switch id="S23"/>
+        <switch id="S26"/>
+        <switch id="S25"/>
+        <switch id="S122"/>
+        <switch id="S28"/>
+        <switch id="S123"/>
+        <switch id="S27"/>
+        <switch id="S120"/>
+        <switch id="S121"/>
+        <switch id="S29"/>
+        <switch id="S108"/>
+        <switch id="S109"/>
+        <switch id="S106"/>
+        <switch id="S107"/>
+        <switch id="S104"/>
+        <switch id="S105"/>
+        <switch id="S102"/>
+        <switch id="S103"/>
+        <switch id="S31"/>
+        <switch id="S30"/>
+        <switch id="S33"/>
+        <switch id="S32"/>
+        <switch id="S35"/>
+        <switch id="S34"/>
+        <switch id="S37"/>
+        <switch id="S36"/>
+        <switch id="S111"/>
+        <switch id="S39"/>
+        <switch id="S112"/>
+        <switch id="S38"/>
+        <switch id="S110"/>
+    </switches>
+    <externals>
+        <external id="X_ECOTRONS_ALM_VDC_1" units="VDC"/>
+        <external id="X_Tech_Edge_Thermistor_or_Vss" units="raw"/>
+        <external id="X_PLX_O2_-_Narrowband" units="%"/>
+        <external id="X_Zeitronix_ZT-2_Engine_Speed" units="rpm"/>
+        <external id="X_APSX_Wideband_AFR" units="AFR Gasoline"/>
+        <external id="X_PLX_Engine_Timing" units="deg"/>
+        <external id="X_ECOTRONS_ALM_VDC_2" units="VDC"/>
+        <external id="X_PLX_Temperature_-_Exhaust_Gas" units="C"/>
+        <external id="X_Tech_Edge_Thermocouple_1" units="raw"/>
+        <external id="X_Tech_Edge_Thermocouple_2" units="raw"/>
+        <external id="X_Tech_Edge_Thermocouple_3" units="raw"/>
+        <external id="X_Innovate_Wideband_AFR" units="AFR Gasoline"/>
+        <external id="X_PLX_Engine_Speed" units="rpm"/>
+        <external id="X_MRF_Stealth_Gauge_Fuel_Press" units="psi"/>
+        <external id="X_TXS_UTEC_MODIGN" units="ign"/>
+        <external id="X_ECOTRONS_ALM_RPM" units="rpm"/>
+        <external id="X_PLX_Duty_Cycle" units="+%"/>
+        <external id="X_AEM_X-Wifi_EGT_1" units="F"/>
+        <external id="X_AEM_X-Wifi_EGT_2" units="F"/>
+        <external id="X_ECOTRONS_ALM_O2_Concentration_1" units="%"/>
+        <external id="X_ECOTRONS_ALM_O2_Concentration_2" units="%"/>
+        <external id="X_ECOTRONS_ALM_lambda_2" units="AFR Gasoline"/>
+        <external id="X_ECOTRONS_ALM_lambda_1" units="AFR Gasoline"/>
+        <external id="X_Zeitronix_ZT-2_MAP" units="psi"/>
+        <external id="X_Zeitronix_ZT-2_Wideband_O2" units="AFR Gasoline"/>
+        <external id="X_TXS_UTEC_KNOCK" units="knock"/>
+        <external id="X_TXS_Tuner_Pro_Knock" units="knock"/>
+        <external id="X_MRF_Stealth_Gauge_MAP" units="psi"/>
+        <external id="X_PLX_Fuel_Trim_-_Long_Term" units="%"/>
+        <external id="X_AEM_UEGO_Wideband_[9600_baud]" units="AFR Gasoline"/>
+        <external id="X_PLX_Temperature_-_Oil/H20" units="C"/>
+        <external id="X_PLX_Manifold_Boost" units="psi"/>
+        <external id="X_TXS_UTEC_MODMAFV" units="mafv"/>
+        <external id="X_Zeitronix_ZT-2_Throttle_Poistion" units="%"/>
+        <external id="X_PLX_Manifold_Absolute_Pressure" units="psi"/>
+        <external id="X_Tech_Edge_User_1" units="VDC"/>
+        <external id="X_PLX_Manifold_Vaccum" units="in/Hg"/>
+        <external id="X_TXS_UTEC_MAFV" units="mafv"/>
+        <external id="X_Tech_Edge_User_2" units="VDC"/>
+        <external id="X_Tech_Edge_User_3" units="VDC"/>
+        <external id="X_TXS_Tuner_Lite_AFR" units="AFR Gasoline"/>
+        <external id="X_PLX_Knock" units="vdc"/>
+        <external id="X_Tech_Edge_Engine_Speed_(4-cyl)" units="RPM"/>
+        <external id="X_PLX_Fuel_Level" units="%"/>
+        <external id="X_PLX_Vehicle_Speed" units="mph"/>
+        <external id="X_PLX_Battery_Voltage" units="vdc"/>
+        <external id="X_14Point7_NAW_7S_UEGO" units="Lambda"/>
+        <external id="X_Tech_Edge_Wideband" units="Lambda"/>
+        <external id="X_ECOTRONS_ALM_Temperature_1" units="C"/>
+        <external id="X_ECOTRONS_ALM_Temperature_2" units="C"/>
+        <external id="X_TXS_UTEC_MAPVE/MODFUEL" units="modfuel %"/>
+        <external id="X_PLX_O2_-_Wideband" units="AFR Gasoline"/>
+        <external id="X_PLX_Engine_Load" units="%"/>
+        <external id="X_PLX_Wideband_Reaction_Time" units="msec"/>
+        <external id="X_MRF_Stealth_Gauge_Wideband" units="AFR Gasoline"/>
+        <external id="X_TXS_UTEC_ECUIGN" units="ign"/>
+        <external id="X_MRF_Stealth_Gauge_Oil_Temp" units="F"/>
+        <external id="X_TXS_UTEC_LOAD" units="load"/>
+        <external id="X_TXS_UTEC_IDC" units="%"/>
+        <external id="X_TXS_Tuner_Pro_AFR" units="Lambda"/>
+        <external id="X_TXS_Tuner_Pro_RPM" units="rpm"/>
+        <external id="X_TXS_UTEC_AFR" units="AFR Gasoline"/>
+        <external id="X_PLX_Wideband_Health" units="%"/>
+        <external id="X_TXS_UTEC_RPM" units="rpm"/>
+        <external id="X_PLX_Throttle_Position" units="%"/>
+        <external id="X_PLX_Temperature_-_Intake_Air" units="C"/>
+        <external id="X_PLX_Fuel/0il_Pressure" units="psi"/>
+        <external id="X_MRF_Stealth_Gauge_Manifold_Temp" units="F"/>
+        <external id="X_PLX_Mass_Air_Flow" units="g/sec"/>
+        <external id="X_Zeitronix_ZT-2_User_Input" units="VDC"/>
+        <external id="X_TXS_UTEC_TPS" units="tps"/>
+        <external id="X_AEM_UEGO_Wideband_[19200_baud]" units="Lambda"/>
+        <external id="X_Zeitronix_ZT-2_EGT" units="C"/>
+        <external id="X_MRF_Stealth_Gauge_EGT" units="F"/>
+        <external id="X_PLX_Fuel_Trim_-_Short_Term" units="%"/>
+        <external id="X_AEM_X-Wifi_Wideband" units="AFR Gasoline"/>
+        <external id="X_MRF_Stealth_Gauge_Oil_Press" units="psi"/>
+        <external id="X_TXS_UTEC_BOOST" units="psi"/>
+    </externals>
+</profile>
