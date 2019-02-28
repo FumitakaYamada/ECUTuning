@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <LinkStorage Version="100" Type=".llf">
 	<ViewLayout>
-		<Pages SelectedPage="ミクスチャーマップ">
+		<Pages SelectedPage="基本設定">
 			<Page Name="基本設定" NameStrId="123" CurrentTableDataID="3850" CurrentSettingsView="{9BADAAED-68E5-49CE-84F1-539CDE348210}">
 				<Views>
 					<View Type="Help Browser" Left="622" Top="2" Width="348" Height="368" Locked="true" FontSize="0" Guid="{E3FDD8CD-8642-45CA-99A2-D1A0823A41D1}" />
@@ -25,7 +25,7 @@
 							<RuntimeViewDataIDGroup GroupID="0" DataIDs="3422,3423,3424,3425,3426,3427,3428,3429,3430,3431,3432,3433,3434,3435,3436,3437,3225,3226,3227,3228,3229,3230,3231,3232,3233,3234,3236,3237,3238" />
 						</DataIDGroups>
 					</View>
-					<View Type="Auto Settings" Left="2" Top="2" Width="618" Height="368" Locked="true" FontSize="0" Guid="{9BADAAED-68E5-49CE-84F1-539CDE348210}" BaseCaption="5292" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
+					<View Type="Auto Settings" Left="0" Top="0" Width="622" Height="372" Locked="true" FontSize="0" Guid="{9BADAAED-68E5-49CE-84F1-539CDE348210}" BaseCaption="5292" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
 			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="3850" CurrentSettingsView="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}">
@@ -37,6 +37,9 @@
 			</Page>
 			<Page Name="ミクスチャーマップ" NameStrId="4271" CurrentTableDataID="2365" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
 				<Views>
+					<View Type="Mixture Map" Left="2" Top="472" Width="1878" Height="608" Locked="false" FontSize="12" Guid="{A767950B-B719-4CFE-95AC-DDADA8006E43}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ミクスチャーマップ" CaptionStrId="0" FuelTable="2365" RPMSeriesDataID="1000" LoadSeriesDataID="1091" Load2SeriesDataID="1091" MixtureSeriesDataID="3040" CondFilter1SeriesDataID="1004" CondFilter2SeriesDataID="3038" CondFilter3SeriesDataID="3040" DeltaFilter1SeriesDataID="1078" DeltaFilter2SeriesDataID="0" DeltaFilter3SeriesDataID="0" Cond1Greater="true" Cond2Greater="false" Cond3Greater="true" Delta1Greater="false" Delta2Greater="false" Delta3Greater="false" Cond1Enabled="true" Cond2Enabled="true" Cond3Enabled="false" Delta1Enabled="false" Delta2Enabled="false" Delta3Enabled="false" ZoneAreaEnabled="false" MinSamplesEnabled="false" Cond1Value="80" Cond2Value="0.1" Cond3Value="0.1" Delta1Value="5" Delta2Value="0" Delta3Value="0" ActiveZoneArea="80" MinSamples="30" ShowTarget="true" ShowActual="true" ShowSamples="true" ShowError="true" AbsolueError="0.27">
+						<LogParameterViewInfos />
+					</View>
 					<View Type="XY Plot" Left="1202" Top="2" Width="678" Height="468" Locked="false" FontSize="12" Guid="{89B75A7F-FBC2-4F89-B00F-90AE385498CB}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="XYプロット" CaptionStrId="0">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1091" DisplayGroup="0" />
@@ -59,9 +62,6 @@
 						</XYPlot>
 					</View>
 					<View Type="Auto Settings" Left="2" Top="2" Width="1198" Height="468" Locked="false" FontSize="0" Guid="{4AD9F864-5266-42F2-A8CF-2B4B47996975}" BaseCaption="1854" MenuLocked="true" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
-					<View Type="Mixture Map" Left="0" Top="470" Width="1882" Height="612" Locked="false" FontSize="12" Guid="{A767950B-B719-4CFE-95AC-DDADA8006E43}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ミクスチャーマップ" CaptionStrId="0" FuelTable="2365" RPMSeriesDataID="1000" LoadSeriesDataID="1091" Load2SeriesDataID="1091" MixtureSeriesDataID="3040" CondFilter1SeriesDataID="1004" CondFilter2SeriesDataID="3038" CondFilter3SeriesDataID="3040" DeltaFilter1SeriesDataID="1078" DeltaFilter2SeriesDataID="0" DeltaFilter3SeriesDataID="0" Cond1Greater="true" Cond2Greater="false" Cond3Greater="true" Delta1Greater="false" Delta2Greater="false" Delta3Greater="false" Cond1Enabled="true" Cond2Enabled="true" Cond3Enabled="false" Delta1Enabled="false" Delta2Enabled="false" Delta3Enabled="false" ZoneAreaEnabled="false" MinSamplesEnabled="false" Cond1Value="80" Cond2Value="0.1" Cond3Value="0.1" Delta1Value="5" Delta2Value="0" Delta3Value="0" ActiveZoneArea="80" MinSamples="30" ShowTarget="true" ShowActual="true" ShowSamples="true" ShowError="true" AbsolueError="0.27">
-						<LogParameterViewInfos />
-					</View>
 				</Views>
 			</Page>
 			<Page Name="ロギング" NameStrId="2070" CurrentTableDataID="2366" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
