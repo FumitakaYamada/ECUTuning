@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <LinkStorage Version="100" Type=".llf">
 	<ViewLayout>
-		<Pages SelectedPage="基本設定">
-			<Page Name="基本設定" NameStrId="123" CurrentTableDataID="3850" CurrentSettingsView="{9BADAAED-68E5-49CE-84F1-539CDE348210}">
+		<Pages SelectedPage="ロギング">
+			<Page Name="基本設定" NameStrId="123" CurrentTableDataID="1312" CurrentSettingsView="{9BADAAED-68E5-49CE-84F1-539CDE348210}">
 				<Views>
 					<View Type="Help Browser" Left="622" Top="2" Width="348" Height="368" Locked="true" FontSize="0" Guid="{E3FDD8CD-8642-45CA-99A2-D1A0823A41D1}" />
 					<View Type="Runtime Value List" Left="352" Top="372" Width="188" Height="258" Locked="true" FontSize="0" Guid="{9A1D0079-81F1-435C-AB97-49704BC62549}" ColumnsCount="1" Caption="デジタル" CaptionStrId="4779" SortMode="0" BoldFont="true">
@@ -25,14 +25,14 @@
 							<RuntimeViewDataIDGroup GroupID="0" DataIDs="3422,3423,3424,3425,3426,3427,3428,3429,3430,3431,3432,3433,3434,3435,3436,3437,3225,3226,3227,3228,3229,3230,3231,3232,3233,3234,3236,3237,3238" />
 						</DataIDGroups>
 					</View>
-					<View Type="Auto Settings" Left="0" Top="0" Width="622" Height="372" Locked="true" FontSize="0" Guid="{9BADAAED-68E5-49CE-84F1-539CDE348210}" BaseCaption="5292" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
+					<View Type="Auto Settings" Left="2" Top="2" Width="618" Height="368" Locked="true" FontSize="0" Guid="{9BADAAED-68E5-49CE-84F1-539CDE348210}" BaseCaption="549" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
-			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="3850" CurrentSettingsView="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}">
+			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="1312" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
 				<Views>
 					<View Type="Help Browser" Left="1072" Top="2" Width="808" Height="1078" Locked="false" FontSize="0" Guid="{D1C63C24-1706-47CA-95B3-78B88A95C552}" />
-					<View Type="Auto Settings" Left="2" Top="2" Width="1068" Height="528" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="1857" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
 					<View Type="Auto Settings" Left="2" Top="532" Width="1068" Height="548" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="5292" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
+					<View Type="Auto Settings" Left="2" Top="2" Width="1068" Height="528" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="529" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
 			<Page Name="ミクスチャーマップ" NameStrId="4271" CurrentTableDataID="2365" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
@@ -126,7 +126,7 @@
 							</PlotSurfaceGroup>
 						</TimePlot>
 					</View>
-					<View Type="Parameter List" Left="1552" Top="2" Width="328" Height="1088" Locked="false" FontSize="12" Guid="{6ABFB8DC-7089-4C4E-81E3-1636FB3D227E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="パラメータリスト" CaptionStrId="0" ColumnWidths="106,75,75">
+					<View Type="Parameter List" Left="1550" Top="0" Width="332" Height="1092" Locked="false" FontSize="12" Guid="{6ABFB8DC-7089-4C4E-81E3-1636FB3D227E}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="パラメータリスト" CaptionStrId="0" ColumnWidths="106,75,75">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1000" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1001" DisplayGroup="0" />
@@ -607,7 +607,7 @@
 					</View>
 				</Views>
 			</Page>
-			<Page Name="チューニング" NameStrId="4269" CurrentTableDataID="3820" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
+			<Page Name="チューニング" NameStrId="4269" CurrentTableDataID="1347" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
 				<Views>
 					<View Type="Runtime Value List" Left="312" Top="382" Width="218" Height="248" Locked="true" FontSize="0" Guid="{F004BCAD-8B8C-4842-95A1-48551E3D4042}" ColumnsCount="1" Caption="エンジン保護" CaptionStrId="163" SortMode="0" BoldFont="true">
 						<DataIDGroups>
@@ -659,6 +659,8 @@
 							<RuntimeViewDataIDGroup GroupID="0" DataIDs="2435,2453" />
 						</DataIDGroups>
 					</View>
+					<View Type="Auto Settings" Left="652" Top="2" Width="318" Height="378" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="3437" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
+					<View Type="Auto Settings" Left="2" Top="2" Width="648" Height="378" Locked="true" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="529" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
 					<View Type="Dial Gauge" Left="652" Top="382" Width="618" Height="568" Locked="false" FontSize="0" Guid="{434D9269-59C8-4F91-A109-28760D31E42D}" ManualConfig="false" GaugeMin="0.7" GaugeMax="1.3" YellowLine="2.3" RedLine="2.3" LowYellowLine="-0.3" LowRedLine="-0.3" SmallTicks="5" LargeTicks="10" DecPlaces="3" GaugeColor="16777002" HighQuality="true" ViewCaption="" MultiplierIndex="2">
 						<DataIDGroups>
 							<RuntimeViewDataIDGroup GroupID="0" DataIDs="3040" />
@@ -666,8 +668,6 @@
 							<RuntimeViewDataIDGroup GroupID="2368" DataIDs="1064" />
 						</DataIDGroups>
 					</View>
-					<View Type="Auto Settings" Left="652" Top="2" Width="318" Height="378" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="3437" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
-					<View Type="Auto Settings" Left="2" Top="2" Width="648" Height="378" Locked="true" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="3059" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
 		</Pages>
