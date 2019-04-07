@@ -25,7 +25,7 @@
 							<RuntimeViewDataIDGroup GroupID="0" DataIDs="3422,3423,3424,3425,3426,3427,3428,3429,3430,3431,3432,3433,3434,3435,3436,3437,3225,3226,3227,3228,3229,3230,3231,3232,3233,3234,3236,3237,3238" />
 						</DataIDGroups>
 					</View>
-					<View Type="Auto Settings" Left="0" Top="0" Width="622" Height="372" Locked="true" FontSize="0" Guid="{9BADAAED-68E5-49CE-84F1-539CDE348210}" BaseCaption="549" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
+					<View Type="Auto Settings" Left="0" Top="0" Width="622" Height="372" Locked="true" FontSize="0" Guid="{9BADAAED-68E5-49CE-84F1-539CDE348210}" BaseCaption="529" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
 			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="1312" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
