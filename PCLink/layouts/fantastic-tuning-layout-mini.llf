@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <LinkStorage Version="100" Type=".llf">
 	<ViewLayout>
-		<Pages SelectedPage="じっくりチューニング">
+		<Pages SelectedPage="ミクスチャーマップ">
 			<Page Name="基本設定" NameStrId="123" CurrentTableDataID="3865" CurrentSettingsView="{9BADAAED-68E5-49CE-84F1-539CDE348210}">
 				<Views>
 					<View Type="Help Browser" Left="622" Top="2" Width="348" Height="368" Locked="true" FontSize="0" Guid="{E3FDD8CD-8642-45CA-99A2-D1A0823A41D1}" />
@@ -28,18 +28,15 @@
 					<View Type="Auto Settings" Left="2" Top="2" Width="618" Height="368" Locked="true" FontSize="0" Guid="{9BADAAED-68E5-49CE-84F1-539CDE348210}" BaseCaption="3303" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
-			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="3800" CurrentSettingsView="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}">
+			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="1311" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
 				<Views>
 					<View Type="Help Browser" Left="1072" Top="2" Width="808" Height="1078" Locked="false" FontSize="0" Guid="{D1C63C24-1706-47CA-95B3-78B88A95C552}" />
-					<View Type="Auto Settings" Left="2" Top="2" Width="1068" Height="528" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="529" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
-					<View Type="Auto Settings" Left="0" Top="530" Width="1072" Height="552" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="3436" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
+					<View Type="Auto Settings" Left="2" Top="532" Width="1068" Height="548" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="3024" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
+					<View Type="Auto Settings" Left="2" Top="2" Width="1068" Height="528" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="546" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
-			<Page Name="ミクスチャーマップ" NameStrId="4271" CurrentTableDataID="1623" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
+			<Page Name="ミクスチャーマップ" NameStrId="4271" CurrentTableDataID="2365" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
 				<Views>
-					<View Type="Mixture Map" Left="2" Top="472" Width="1878" Height="608" Locked="false" FontSize="12" Guid="{A767950B-B719-4CFE-95AC-DDADA8006E43}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ミクスチャーマップ (燃料テーブル 1)" CaptionStrId="0" FuelTable="2365" RPMSeriesDataID="1000" LoadSeriesDataID="1091" Load2SeriesDataID="1091" MixtureSeriesDataID="3040" CondFilter1SeriesDataID="1004" CondFilter2SeriesDataID="3038" CondFilter3SeriesDataID="3040" DeltaFilter1SeriesDataID="1078" DeltaFilter2SeriesDataID="0" DeltaFilter3SeriesDataID="0" Cond1Greater="true" Cond2Greater="false" Cond3Greater="true" Delta1Greater="false" Delta2Greater="false" Delta3Greater="false" Cond1Enabled="true" Cond2Enabled="false" Cond3Enabled="false" Delta1Enabled="false" Delta2Enabled="false" Delta3Enabled="false" ZoneAreaEnabled="false" MinSamplesEnabled="false" Cond1Value="80" Cond2Value="0.1" Cond3Value="0.1" Delta1Value="5" Delta2Value="0" Delta3Value="0" ActiveZoneArea="50" MinSamples="10" ShowTarget="true" ShowActual="true" ShowSamples="true" ShowError="true" AbsolueError="0.27">
-						<LogParameterViewInfos />
-					</View>
 					<View Type="XY Plot" Left="1202" Top="2" Width="678" Height="468" Locked="false" FontSize="12" Guid="{89B75A7F-FBC2-4F89-B00F-90AE385498CB}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="XYプロット" CaptionStrId="0">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1091" DisplayGroup="0" />
@@ -62,6 +59,9 @@
 						</XYPlot>
 					</View>
 					<View Type="Auto Settings" Left="2" Top="2" Width="1198" Height="468" Locked="false" FontSize="0" Guid="{4AD9F864-5266-42F2-A8CF-2B4B47996975}" BaseCaption="1854" MenuLocked="true" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
+					<View Type="Mixture Map" Left="0" Top="470" Width="1882" Height="612" Locked="false" FontSize="12" Guid="{A767950B-B719-4CFE-95AC-DDADA8006E43}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="ミクスチャーマップ (燃料テーブル 1)" CaptionStrId="0" FuelTable="2365" RPMSeriesDataID="1000" LoadSeriesDataID="1091" Load2SeriesDataID="1091" MixtureSeriesDataID="3040" CondFilter1SeriesDataID="1004" CondFilter2SeriesDataID="3038" CondFilter3SeriesDataID="3040" DeltaFilter1SeriesDataID="1078" DeltaFilter2SeriesDataID="0" DeltaFilter3SeriesDataID="0" Cond1Greater="true" Cond2Greater="false" Cond3Greater="true" Delta1Greater="false" Delta2Greater="false" Delta3Greater="false" Cond1Enabled="true" Cond2Enabled="false" Cond3Enabled="false" Delta1Enabled="false" Delta2Enabled="false" Delta3Enabled="false" ZoneAreaEnabled="false" MinSamplesEnabled="false" Cond1Value="80" Cond2Value="0.1" Cond3Value="0.1" Delta1Value="5" Delta2Value="0" Delta3Value="0" ActiveZoneArea="50" MinSamples="10" ShowTarget="true" ShowActual="true" ShowSamples="true" ShowError="true" AbsolueError="0.27">
+						<LogParameterViewInfos />
+					</View>
 				</Views>
 			</Page>
 			<Page Name="ロギング" NameStrId="2070" CurrentTableDataID="2366" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
@@ -302,247 +302,36 @@
 							<LogParameterViewInfo DataID="1064" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1065" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1203" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1391" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1395" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1396" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1403" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1404" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1406" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1443" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1449" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1450" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2529" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2530" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2531" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2532" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2533" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2534" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2535" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2536" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2578" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2579" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1007" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1017" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1083" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1085" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1096" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1635" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2392" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2395" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2396" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2397" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2398" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2399" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2400" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2421" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2422" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2423" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2424" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2425" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2426" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2576" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2577" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2856" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2857" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2858" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2859" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2884" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2885" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2886" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2887" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2888" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2889" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2890" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2891" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2892" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2895" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2896" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2897" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2898" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2918" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="2936" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="2967" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="2968" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2969" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2972" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2980" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2983" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="3001" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="3003" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="3004" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="3005" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3008" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3010" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="3025" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3026" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3038" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="3040" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3041" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="3042" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3056" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3063" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3068" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3069" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3070" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="3073" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3110" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3114" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3118" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3131" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3146" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3730" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1305" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1306" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1307" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1315" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1316" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1317" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1325" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1326" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1327" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1329" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1330" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1331" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1354" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1387" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1714" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1715" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2004" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2005" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2618" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2619" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3032" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3033" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3036" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3127" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3225" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3226" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3227" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3228" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3229" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3230" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3231" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3232" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3233" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3234" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3236" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3237" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3238" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3239" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3240" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="3405" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="3412" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3413" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3414" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="3419" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3422" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3423" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3424" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3425" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3426" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3427" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3428" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3429" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3430" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3431" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3432" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3433" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3434" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3435" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1152" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2041" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2048" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2049" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2089" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2041" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2048" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2049" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2089" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2593" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2594" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2595" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2596" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2597" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2835" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2839" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2835" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2839" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1078" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1646" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1663" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1699" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1700" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1653" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1659" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1697" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1698" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1702" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1707" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2089" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1650" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1654" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1701" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1650" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1654" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1701" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1094" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1098" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1099" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1369" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1370" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1371" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1372" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1373" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1374" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1375" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1376" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1377" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1378" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1379" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1380" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1381" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1382" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1383" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1384" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2268" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2278" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2279" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2280" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2281" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2282" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2283" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2284" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2285" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1722" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2575" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1016" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1018" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1020" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1021" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1234" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1437" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1438" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1439" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1440" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1462" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1463" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1464" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1880" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="1887" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2586" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2587" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2590" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2606" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2608" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2609" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2610" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2611" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2612" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2651" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="2662" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3410" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3411" DisplayGroup="0" />
-							<LogParameterViewInfo DataID="3717" DisplayGroup="0" />
 						</LogParameterViewInfos>
 					</View>
 					<View Type="Time Plot" Left="2" Top="2" Width="1548" Height="1088" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="タイムプロット" CaptionStrId="4264">
@@ -554,39 +343,40 @@
 							<LogParameterViewInfo DataID="1650" DisplayGroup="3" />
 							<LogParameterViewInfo DataID="1078" DisplayGroup="3" />
 							<LogParameterViewInfo DataID="1653" DisplayGroup="3" />
-							<LogParameterViewInfo DataID="1075" DisplayGroup="4" />
-							<LogParameterViewInfo DataID="1007" DisplayGroup="4" />
-							<LogParameterViewInfo DataID="1064" DisplayGroup="5" />
-							<LogParameterViewInfo DataID="1048" DisplayGroup="5" />
-							<LogParameterViewInfo DataID="1404" DisplayGroup="5" />
-							<LogParameterViewInfo DataID="1443" DisplayGroup="5" />
-							<LogParameterViewInfo DataID="1403" DisplayGroup="5" />
-							<LogParameterViewInfo DataID="1450" DisplayGroup="5" />
-							<LogParameterViewInfo DataID="1391" DisplayGroup="5" />
-							<LogParameterViewInfo DataID="1396" DisplayGroup="5" />
-							<LogParameterViewInfo DataID="1065" DisplayGroup="5" />
-							<LogParameterViewInfo DataID="3040" DisplayGroup="6" />
-							<LogParameterViewInfo DataID="2936" DisplayGroup="6" />
-							<LogParameterViewInfo DataID="3001" DisplayGroup="7" />
-							<LogParameterViewInfo DataID="1011" DisplayGroup="7" />
-							<LogParameterViewInfo DataID="1004" DisplayGroup="7" />
-							<LogParameterViewInfo DataID="2434" DisplayGroup="8" />
-							<LogParameterViewInfo DataID="2435" DisplayGroup="8" />
-							<LogParameterViewInfo DataID="2436" DisplayGroup="8" />
-							<LogParameterViewInfo DataID="2437" DisplayGroup="8" />
-							<LogParameterViewInfo DataID="2454" DisplayGroup="8" />
-							<LogParameterViewInfo DataID="2452" DisplayGroup="8" />
-							<LogParameterViewInfo DataID="1094" DisplayGroup="9" />
-							<LogParameterViewInfo DataID="1369" DisplayGroup="9" />
-							<LogParameterViewInfo DataID="1370" DisplayGroup="9" />
-							<LogParameterViewInfo DataID="1371" DisplayGroup="9" />
-							<LogParameterViewInfo DataID="1372" DisplayGroup="9" />
-							<LogParameterViewInfo DataID="1098" DisplayGroup="9" />
-							<LogParameterViewInfo DataID="2278" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="2279" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="2280" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="2281" DisplayGroup="10" />
-							<LogParameterViewInfo DataID="1075" DisplayGroup="11" />
+							<LogParameterViewInfo DataID="1780" DisplayGroup="4" />
+							<LogParameterViewInfo DataID="1075" DisplayGroup="5" />
+							<LogParameterViewInfo DataID="1007" DisplayGroup="5" />
+							<LogParameterViewInfo DataID="1064" DisplayGroup="6" />
+							<LogParameterViewInfo DataID="1048" DisplayGroup="6" />
+							<LogParameterViewInfo DataID="1404" DisplayGroup="6" />
+							<LogParameterViewInfo DataID="1443" DisplayGroup="6" />
+							<LogParameterViewInfo DataID="1403" DisplayGroup="6" />
+							<LogParameterViewInfo DataID="1450" DisplayGroup="6" />
+							<LogParameterViewInfo DataID="1391" DisplayGroup="6" />
+							<LogParameterViewInfo DataID="1396" DisplayGroup="6" />
+							<LogParameterViewInfo DataID="1065" DisplayGroup="6" />
+							<LogParameterViewInfo DataID="3040" DisplayGroup="7" />
+							<LogParameterViewInfo DataID="2936" DisplayGroup="7" />
+							<LogParameterViewInfo DataID="3001" DisplayGroup="8" />
+							<LogParameterViewInfo DataID="1011" DisplayGroup="8" />
+							<LogParameterViewInfo DataID="1004" DisplayGroup="8" />
+							<LogParameterViewInfo DataID="2434" DisplayGroup="9" />
+							<LogParameterViewInfo DataID="2435" DisplayGroup="9" />
+							<LogParameterViewInfo DataID="2436" DisplayGroup="9" />
+							<LogParameterViewInfo DataID="2437" DisplayGroup="9" />
+							<LogParameterViewInfo DataID="2454" DisplayGroup="9" />
+							<LogParameterViewInfo DataID="2452" DisplayGroup="9" />
+							<LogParameterViewInfo DataID="1094" DisplayGroup="10" />
+							<LogParameterViewInfo DataID="1369" DisplayGroup="10" />
+							<LogParameterViewInfo DataID="1370" DisplayGroup="10" />
+							<LogParameterViewInfo DataID="1371" DisplayGroup="10" />
+							<LogParameterViewInfo DataID="1372" DisplayGroup="10" />
+							<LogParameterViewInfo DataID="1098" DisplayGroup="10" />
+							<LogParameterViewInfo DataID="2278" DisplayGroup="11" />
+							<LogParameterViewInfo DataID="2279" DisplayGroup="11" />
+							<LogParameterViewInfo DataID="2280" DisplayGroup="11" />
+							<LogParameterViewInfo DataID="2281" DisplayGroup="11" />
+							<LogParameterViewInfo DataID="1075" DisplayGroup="12" />
 						</LogParameterViewInfos>
 						<TimePlot ShowOverlays="true" XAxisVisible="true" MarkersVisible="true" XScrollBarVisible="true" OffsetAxisVisible="true">
 							<PlotSurfaceGroup DisplayMode="0" YAxisVisible="true" YScrollBarVisible="true">
@@ -601,6 +391,7 @@
 								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="1.51111111111111" />
 								<PlotSurface Proportion="0.644444444444444" />
+								<PlotSurface Proportion="-1" />
 								<PlotSurface Proportion="-1" />
 							</PlotSurfaceGroup>
 						</TimePlot>
