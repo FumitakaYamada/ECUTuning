@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <LinkStorage Version="100" Type=".llf">
 	<ViewLayout>
-		<Pages SelectedPage="じっくりチューニング">
+		<Pages SelectedPage="ロギング">
 			<Page Name="基本設定" NameStrId="123" CurrentTableDataID="3865" CurrentSettingsView="{9BADAAED-68E5-49CE-84F1-539CDE348210}">
 				<Views>
 					<View Type="Help Browser" Left="622" Top="2" Width="348" Height="368" Locked="true" FontSize="0" Guid="{E3FDD8CD-8642-45CA-99A2-D1A0823A41D1}" />
@@ -32,7 +32,7 @@
 				<Views>
 					<View Type="Help Browser" Left="1072" Top="2" Width="808" Height="1078" Locked="false" FontSize="0" Guid="{D1C63C24-1706-47CA-95B3-78B88A95C552}" />
 					<View Type="Auto Settings" Left="2" Top="532" Width="1068" Height="548" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="3436" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
-					<View Type="Auto Settings" Left="0" Top="0" Width="1072" Height="532" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="1857" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
+					<View Type="Auto Settings" Left="2" Top="2" Width="1068" Height="528" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="1857" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
 			<Page Name="ミクスチャーマップ" NameStrId="4271" CurrentTableDataID="2365" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
@@ -334,7 +334,7 @@
 							<LogParameterViewInfo DataID="1437" DisplayGroup="0" />
 						</LogParameterViewInfos>
 					</View>
-					<View Type="Time Plot" Left="2" Top="2" Width="1548" Height="1088" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="タイムプロット" CaptionStrId="4264">
+					<View Type="Time Plot" Left="0" Top="0" Width="1552" Height="1092" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="タイムプロット" CaptionStrId="4264">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1437" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1091" DisplayGroup="1" />
@@ -420,11 +420,6 @@
 							<RuntimeViewDataIDGroup GroupID="3870" DataIDs="1203,1081" />
 						</DataIDGroups>
 					</View>
-					<View Type="Bar Gauge" Left="952" Top="12" Width="138" Height="348" Locked="false" FontSize="0" Guid="{D591602E-08B7-48FB-B766-F5922C27F1A4}" ManualConfig="false" GaugeMin="0" GaugeMax="1020" YellowLine="900" RedLine="950" LowYellowLine="-1" LowRedLine="-1" SmallTicks="4" LargeTicks="5" DecPlaces="0" GaugeColor="32768" HighQuality="true" ViewCaption="" MultiplierIndex="2">
-						<DataIDGroups>
-							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1094" />
-						</DataIDGroups>
-					</View>
 					<View Type="Bar Gauge" Left="1092" Top="12" Width="198" Height="358" Locked="false" FontSize="0" Guid="{D6AA2FCE-95CC-4DA1-9452-01A086CB0CBB}" ManualConfig="true" GaugeMin="0" GaugeMax="100" YellowLine="90" RedLine="95" LowYellowLine="-1" LowRedLine="-1" SmallTicks="5" LargeTicks="5" DecPlaces="1" GaugeColor="255" HighQuality="true" ViewCaption="" MultiplierIndex="2">
 						<DataIDGroups>
 							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1078" />
@@ -459,6 +454,11 @@
 						</DataIDGroups>
 					</View>
 					<View Type="Auto Settings" Left="2" Top="2" Width="648" Height="378" Locked="true" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="529" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
+					<View Type="Bar Gauge" Left="1272" Top="462" Width="598" Height="608" Locked="false" FontSize="0" Guid="{D591602E-08B7-48FB-B766-F5922C27F1A4}" ManualConfig="false" GaugeMin="0" GaugeMax="1020" YellowLine="900" RedLine="950" LowYellowLine="-1" LowRedLine="-1" SmallTicks="4" LargeTicks="5" DecPlaces="0" GaugeColor="32768" HighQuality="true" ViewCaption="" MultiplierIndex="2">
+						<DataIDGroups>
+							<RuntimeViewDataIDGroup GroupID="0" DataIDs="1094" />
+						</DataIDGroups>
+					</View>
 				</Views>
 			</Page>
 		</Pages>
