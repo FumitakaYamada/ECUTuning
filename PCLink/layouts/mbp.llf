@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <LinkStorage Version="100" Type=".llf">
 	<ViewLayout>
-		<Pages SelectedPage="じっくりチューニング">
+		<Pages SelectedPage="ロギング">
 			<Page Name="基本設定" NameStrId="123" CurrentTableDataID="1623" CurrentSettingsView="{9BADAAED-68E5-49CE-84F1-539CDE348210}">
 				<Views>
 					<View Type="Help Browser" Left="622" Top="2" Width="348" Height="368" Locked="true" FontSize="0" Guid="{E3FDD8CD-8642-45CA-99A2-D1A0823A41D1}" />
@@ -28,11 +28,11 @@
 					<View Type="Auto Settings" Left="2" Top="2" Width="618" Height="368" Locked="true" FontSize="0" Guid="{9BADAAED-68E5-49CE-84F1-539CDE348210}" BaseCaption="1081" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="false" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
-			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="3000" CurrentSettingsView="{E7379D37-6AFE-4BA5-B875-3020CEECE235}">
+			<Page Name="じっくりチューニング" NameStrId="0" CurrentTableDataID="3000" CurrentSettingsView="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}">
 				<Views>
 					<View Type="Help Browser" Left="1052" Top="2" Width="558" Height="918" Locked="false" FontSize="0" Guid="{D1C63C24-1706-47CA-95B3-78B88A95C552}" />
+					<View Type="Auto Settings" Left="2" Top="2" Width="1048" Height="478" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="1854" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="true" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
 					<View Type="Auto Settings" Left="2" Top="482" Width="1048" Height="428" Locked="false" FontSize="0" Guid="{22C845A5-E300-4FF1-9201-EA4B155A5AF1}" BaseCaption="4843" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="false" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
-					<View Type="Auto Settings" Left="0" Top="0" Width="1052" Height="482" Locked="false" FontSize="0" Guid="{E7379D37-6AFE-4BA5-B875-3020CEECE235}" BaseCaption="1854" MenuLocked="false" SnakeTrail="true" GhostBox="false" ColourGradient="false" GraphDisplay="true" KeyRotation="true" HingedAxis="false" TableLockedToFocused="false" />
 				</Views>
 			</Page>
 			<Page Name="ミクスチャーマップ" NameStrId="4271" CurrentTableDataID="2365" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
@@ -66,7 +66,7 @@
 			</Page>
 			<Page Name="ロギング" NameStrId="2070" CurrentTableDataID="2366" CurrentSettingsView="{00000000-0000-0000-0000-000000000000}">
 				<Views>
-					<View Type="Time Plot" Left="2" Top="2" Width="1598" Height="908" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="タイムプロット" CaptionStrId="4264">
+					<View Type="Time Plot" Left="0" Top="0" Width="1602" Height="912" Locked="false" FontSize="12" Guid="{8F20EA34-D565-447F-820F-E13AFDFDDB8D}" ZoomLinked="true" CursorLinked="true" DisplayTimeRangeStart="0" DisplayTimeRangeEnd="1" Caption="タイムプロット" CaptionStrId="4264">
 						<LogParameterViewInfos>
 							<LogParameterViewInfo DataID="1437" DisplayGroup="0" />
 							<LogParameterViewInfo DataID="1091" DisplayGroup="1" />
